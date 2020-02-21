@@ -1,0 +1,21 @@
+language: node_js
+node_js:
+  - "9"
+cache:
+  directories:
+    - "node_modules"
+addons:
+  apt:
+    packages:
+      - ghostscript
+before_deploy:
+  - npm run dist
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_key
+  local_dir: dist
+  committer_from_gh: true
+  on:
+    all_branches: true
+    condition: $TRAVIS_BRANCH =~ ^(master|release-.*)$
