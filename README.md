@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Rescuer of My Soul
+## Psalm 103:1-7
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/rescue.svg)](https://travis-ci.org/sermons/rescue)
+[![Node deps](https://david-dm.org/sermons/rescue.svg)](https://david-dm.org/sermons/rescue)
+[![Node devDeps](https://david-dm.org/sermons/rescue/dev-status.svg)](https://david-dm.org/sermons/rescue?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 

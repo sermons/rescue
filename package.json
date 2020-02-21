@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/rescue",
+  "repository": "sermons/rescue",
+  "description": "Ps103:1-7 Rescuer of My Soul",
   "keywords": [
-    "slides"
+    "psalm",
+    "worship",
+    "sermon"
   ],
   "version": "1.7.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "rescue.seanho.com",
+    "cname": "rescue.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2020-02-22",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
