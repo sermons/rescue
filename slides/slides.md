@@ -57,7 +57,11 @@ his acts to the people of Israel.
 [Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
 
 ---
-## outline
+## Rescuer of My Soul
+1. **Healer** of Body + Soul [(v3)](# "ref")
+1. **Lifter** from Pit to Glory [(v4)](# "ref")
+1. **Supplier** of Strength + Satisfaction [(v5)](# "ref")
+1. **Rescuer** and Advocate [(v6)](# "ref")
 
 >>>
 + v2 benefits: dealings, full interaction, wean
@@ -95,8 +99,29 @@ who **heals** all your diseases,
 + **healing** in spirit + body
 
 ---
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
+Which is easier, to say to the paralytic,  <br/>
+‘Your sins are **forgiven**’;
+
+or to say, <br/>
+‘**Get up**, and pick up your pallet and **walk**’?
+
+[Mark 2:9 (ESV)](# "ref")
+
+[Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
+
+>>>
++ **forgiveness** || **healing**:
++ v10-12: **heal** &rArr;
+  + show **auth** to forgive sins
++ **Creator** has authority over
+  + **body**, fig tree, mountain
++ &rArr; authority to **judge**
+  + and show **mercy**
+
+---
 <!-- .slide: data-background="white" -->
-# Q1
+# How has God **healed** us, body and soul? 
 
 ---
 ## outline
@@ -114,8 +139,18 @@ steadfast **love and mercy**,
 + crown: surround, protect
 
 ---
+But you, O Lord, are a **shield** about me, <br>
+my **glory**, and the **lifter** of my head.
+
+[Psalm 3:3 (ESV)](# "ref")
+
+>>>
++ do not need to **defend** own pride
++ **wait** for the Lord to **lift** us up
+
+---
 <!-- .slide: data-background="white" -->
-# Q2
+# When have I been in the **pit**? How has God **lifted** me? 
 
 ---
 ## outline
@@ -133,8 +168,24 @@ like the **eagle**'s.
 + eagle:
 
 ---
+Every **good gift** and every **perfect gift** <br>
+is from above, 
+
+coming down from the **Father of lights**, 
+
+with whom there is no **variation** <br>
+or shadow due to **change**.
+
+[James 1:17 (ESV)](# "ref")
+
+>>>
++ does not **tempt** us to sin
++ does not **delight** in watching us **suffer**
++ good **Father**
+
+---
 <!-- .slide: data-background="white" -->
-# Q3
+# What **good** and perfect **gifts** has God given? 
 
 ---
 ## outline
@@ -159,6 +210,14 @@ his acts to the people of Israel.
 >>>
 + not the **unknown** God
 + but **revealed**: ways and acts
+
+---
+<!-- .slide: data-background="white" -->
+# How has God worked **justice**?
+
+>>>
++ in our **lives**
++ in our **communities**
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
