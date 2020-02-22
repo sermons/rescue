@@ -4,9 +4,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Why do we **worship**?
 
 >>>
++ **orienting** our hearts to face God
++ focus on **who** God is
+  + His **worthiness**, glory, grace
++ remind **self** of God's power + love
+  + encourage fellow **believers** to stand firm in the faith
+  + witness to **world**
 
 ******
 [1](# "ref")
@@ -72,6 +78,9 @@ and **forget** not all his **benefits**,
 [Psalm 103:1-2 (ESV)](# "ref")
 
 >>>
++ worship focuses on **God**
+  + not on our **needs**, comfort, peace
++ but 
 + benefits: full dealings, wean
   + interactions with, actions toward us
   + can be positive or negative
@@ -84,6 +93,10 @@ who **heals** all your diseases,
 
 >>>
 + **healing** in spirit + body
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
 
 ---
 ## outline
@@ -101,6 +114,10 @@ steadfast **love and mercy**,
 + crown: surround, protect
 
 ---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
 ## outline
 
 ---
@@ -114,6 +131,10 @@ like the **eagle**'s.
 + satisfy: eat til full, enough
   + adornments
 + eagle:
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
 
 ---
 ## outline
@@ -139,4 +160,5 @@ his acts to the people of Israel.
 + not the **unknown** God
 + but **revealed**: ways and acts
 
-
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
