@@ -2,6 +2,12 @@
 # Rescuer of My Soul
 ## Psalm 103:1-7
 
+>>>
++ Waymaker
+  + Miracle worker
+  + Promise keeper
+  + Light in the darkness
+
 ---
 <!-- .slide: data-background="white" -->
 # Why do we **worship**?
