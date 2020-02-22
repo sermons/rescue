@@ -10,8 +10,14 @@
 ---
 # How has God **healed** us, body and soul? 
 
+>>>
++ ref which is easier to say
+
 ---
 # When have I been in the **pit**? How has God **lifted** me? 
+
+>>>
++ ref ps3:3
 
 ---
 # What **good** and perfect **gifts** has God given? 
