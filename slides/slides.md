@@ -63,6 +63,7 @@ his acts to the people of Israel.
 [Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Rescuer of My Soul
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Lifter** from Pit to Glory [(v4)](# "ref")
@@ -130,7 +131,12 @@ or to say, <br/>
 # How has God **healed** us, body and soul? 
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Rescuer of My Soul
+1. Healer of Body + Soul [(v3)](# "ref")
+1. **Lifter from Pit to Glory** [(v4)](# "ref")
+1. Supplier of Strength + Satisfaction [(v5)](# "ref")
+1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
 who **redeems** your life from the **pit**,<br>
@@ -159,7 +165,12 @@ my **glory**, and the **lifter** of my head.
 # When have I been in the **pit**? How has God **lifted** me? 
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Rescuer of My Soul
+1. Healer of Body + Soul [(v3)](# "ref")
+1. Lifter from Pit to Glory [(v4)](# "ref")
+1. **Supplier of Strength + Satisfaction** [(v5)](# "ref")
+1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
 who **satisfies** you with good<br>
@@ -194,7 +205,12 @@ or shadow due to **change**.
 # What **good** and perfect **gifts** has God given? 
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Rescuer of My Soul
+1. Healer of Body + Soul [(v3)](# "ref")
+1. Lifter from Pit to Glory [(v4)](# "ref")
+1. Supplier of Strength + Satisfaction [(v5)](# "ref")
+1. **Rescuer and Advocate** [(v6)](# "ref")
 
 ---
 The Lord works **righteousness**<br>
