@@ -232,10 +232,28 @@ his acts to the people of Israel.
 >>>
 + not the **unknown** God
 + but **revealed**: ways and acts
++ and **we** are His **people**
+
+---
+Those who were not my people <br>
+I will call ‘**my people**,’<br>
+and her who was not beloved <br>
+I will call ‘**beloved**’.
+
+[26](# "ref")
+“And in the very place where <br>
+it was said to them, ‘You are **not** my people,’<br>
+there they will be called <br>
+‘**sons of the living God**.’”
+
+[Romans 9:25-26, quoting Hosea 2:23 (ESV)](# "ref")
+
+>>>
++ our new **identity** as sons/daughters
 
 ---
 <!-- .slide: data-background="white" -->
-# How has God worked **justice**?
+# How has God worked **justice** for His people?
 
 >>>
 + in our **lives**
