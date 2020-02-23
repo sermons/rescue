@@ -281,11 +281,30 @@ there they will be called <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# How has God worked **justice** for His people?
+# Do I believe God works **justice** for His people?
 
 >>>
 + in our **lives**
 + in our **communities**
++ when we don't **see** His **promises** fulfilled
+  + sometimes bc we have a short **memory**
+  + sometimes bc we're not **home** yet
++ but we **declare** this truth:
+  + God is **healer**
+  + **lifts** us from pit to glory
+  + supplies our needs w/very **best** gifts
+  + **rescues** and works **justice** for us
++ remind **ourselves**
+  + encourage **one another** in the faith
+  + witness to the **world**
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
+## Rescuer of My Soul
+1. **Healer** of Body + Soul [(v3)](# "ref")
+1. **Lifter** from Pit to Glory [(v4)](# "ref")
+1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
+1. **Rescuer** and Advocate [(v6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
