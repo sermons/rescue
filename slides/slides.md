@@ -162,7 +162,7 @@ But you, O Lord, are a **shield** about me, <br>
 my **glory**, and the **lifter** of my head.
 
 [Psalm 3:3 (ESV)](# "ref")
-[Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A)
+[Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A "caption")
 
 >>>
 + do not need to **defend** own pride
