@@ -180,6 +180,11 @@ my **glory**, and the **lifter** of my head.
 1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
+>>>
++ youth renewed as the eagle
++ every good + perfect gift
++ good Father
+
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
 who **satisfies** you with good<br>
