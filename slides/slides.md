@@ -132,7 +132,7 @@ or to say, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# How has God **healed** us, body and soul? 
+# How has God **healed** us, <br> body and soul? 
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
@@ -214,7 +214,7 @@ or shadow due to **change**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **good** and perfect **gifts** has God given? 
+# What **good** and perfect **gifts** has God given to me? 
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
@@ -253,18 +253,28 @@ his acts to the people of Israel.
 ---
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 Those who were not my people <br>
-I will call ‘**my people**,’<br>
+I will call ‘**my people**,’
+
 and her who was not beloved <br>
 I will call ‘**beloved**’.
 
+[Romans 9:25-26, quoting Hosea 2:23 (ESV) (p.1/2)](# "ref")
+[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
+
+>>>
++ 2 of Hosea's **children**:
+  + Lo-Ammi, Lo-Ruhamah
+
+---
+<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 [26](# "ref")
 “And in the very place where <br>
-it was said to them, ‘You are **not** my people,’<br>
+it was said to them, ‘You are **not** my people,’
+
 there they will be called <br>
 ‘**sons of the living God**.’”
 
-[Romans 9:25-26, quoting Hosea 2:23 (ESV)](# "ref")
-[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
+[Romans 9:25-26, quoting Hosea 2:23 (ESV) (p.1/2)](# "ref")
 
 >>>
 + our new **identity** as sons/daughters
