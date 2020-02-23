@@ -68,7 +68,7 @@ his acts to the people of Israel.
 ## Rescuer of My Soul
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Lifter** from Pit to Glory [(v4)](# "ref")
-1. **Supplier** of Strength + Satisfaction [(v5)](# "ref")
+1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
 1. **Rescuer** and Advocate [(v6)](# "ref")
 
 >>>
@@ -139,7 +139,7 @@ or to say, <br/>
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. **Lifter from Pit to Glory** [(v4)](# "ref")
-1. Supplier of Strength + Satisfaction [(v5)](# "ref")
+1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
@@ -177,7 +177,7 @@ my **glory**, and the **lifter** of my head.
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Lifter from Pit to Glory [(v4)](# "ref")
-1. **Supplier of Strength + Satisfaction** [(v5)](# "ref")
+1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
@@ -221,7 +221,7 @@ or shadow due to **change**.
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Lifter from Pit to Glory [(v4)](# "ref")
-1. Supplier of Strength + Satisfaction [(v5)](# "ref")
+1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
 1. **Rescuer and Advocate** [(v6)](# "ref")
 
 ---
