@@ -268,11 +268,11 @@ I will call ‘**beloved**’.
 ---
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 [26](# "ref")
-“And in the very place where <br>
+And in the very place where <br>
 it was said to them, ‘You are **not** my people,’
 
 there they will be called <br>
-‘**sons of the living God**.’”
+‘**sons of the living God**.’
 
 [Romans 9:25-26, quoting Hosea 2:23 (ESV) (p.1/2)](# "ref")
 
