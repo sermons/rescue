@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Rescuer of My Soul
 ## Psalm 103:1-7
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
 + Waymaker
@@ -63,7 +64,7 @@ his acts to the people of Israel.
 [Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
 ## Rescuer of My Soul
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Lifter** from Pit to Glory [(v4)](# "ref")
@@ -78,6 +79,7 @@ his acts to the people of Israel.
 + v6-7: rescuer + advocate
 
 ---
+<!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
 **Bless** the Lord, O my soul,<br>
 and all that is **within me**,<br>
 bless his holy name!
@@ -87,6 +89,7 @@ Bless the Lord, O my soul,<br>
 and **forget** not all his **benefits**,
 
 [Psalm 103:1-2 (ESV)](# "ref")
+[Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
 + worship focuses on **God**
@@ -97,10 +100,12 @@ and **forget** not all his **benefits**,
   + can be positive or negative
 
 ---
+<!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
 who **forgives** all your iniquity,<br>
 who **heals** all your diseases,
 
 [Psalm 103:3 (ESV)](# "ref")
+["Christ Healing the Mother of Simon Peter’s Wife" <br>John Bridges, 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
 + **healing** in spirit + body
@@ -114,7 +119,6 @@ or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
 [Mark 2:9 (ESV)](# "ref")
-
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -131,7 +135,7 @@ or to say, <br/>
 # How has God **healed** us, body and soul? 
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. **Lifter from Pit to Glory** [(v4)](# "ref")
@@ -139,11 +143,13 @@ or to say, <br/>
 1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 who **redeems** your life from the **pit**,<br>
 who **crowns** you with <br>
 steadfast **love and mercy**,
 
 [Psalm 103:4 (ESV)](# "ref")
+[Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
 + pit: depth, despair, trapped
@@ -151,10 +157,12 @@ steadfast **love and mercy**,
 + crown: surround, protect
 
 ---
+<!-- .slide: <%= bg("unsplash-1Z2niiBPg5A-mist_moor.jpg") %> -->
 But you, O Lord, are a **shield** about me, <br>
 my **glory**, and the **lifter** of my head.
 
 [Psalm 3:3 (ESV)](# "ref")
+[Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A)
 
 >>>
 + do not need to **defend** own pride
@@ -165,7 +173,7 @@ my **glory**, and the **lifter** of my head.
 # When have I been in the **pit**? How has God **lifted** me? 
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Lifter from Pit to Glory [(v4)](# "ref")
@@ -173,11 +181,13 @@ my **glory**, and the **lifter** of my head.
 1. Rescuer and Advocate [(v6)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
 who **satisfies** you with good<br>
 so that your **youth** is renewed <br>
 like the **eagle**'s.
 
 [Psalm 103:5 (ESV)](# "ref")
+[Woodbine, NJ. Ray Hennessy](https://unsplash.com/photos/OjE4RtaibFc "caption")
 
 >>>
 + satisfy: eat til full, enough
@@ -185,6 +195,7 @@ like the **eagle**'s.
 + eagle:
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 Every **good gift** and every **perfect gift** <br>
 is from above, 
 
@@ -194,6 +205,7 @@ with whom there is no **variation** <br>
 or shadow due to **change**.
 
 [James 1:17 (ESV)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + does not **tempt** us to sin
@@ -205,7 +217,7 @@ or shadow due to **change**.
 # What **good** and perfect **gifts** has God given? 
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Lifter from Pit to Glory [(v4)](# "ref")
@@ -213,10 +225,12 @@ or shadow due to **change**.
 1. **Rescuer and Advocate** [(v6)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> -->
 The Lord works **righteousness**<br>
 and **justice** for all who are **oppressed**.
 
 [Psalm 103:6 (ESV)](# "ref")
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 >>>
 + works: action, perform
@@ -224,10 +238,12 @@ and **justice** for all who are **oppressed**.
 + righteousness + justice
 
 ---
+<!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
 He **made known** his ways to Moses,<br>
 his acts to the people of Israel.
 
 [Psalm 103:7 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
 + not the **unknown** God
@@ -235,6 +251,7 @@ his acts to the people of Israel.
 + and **we** are His **people**
 
 ---
+<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 Those who were not my people <br>
 I will call ‘**my people**,’<br>
 and her who was not beloved <br>
@@ -247,6 +264,7 @@ there they will be called <br>
 ‘**sons of the living God**.’”
 
 [Romans 9:25-26, quoting Hosea 2:23 (ESV)](# "ref")
+[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
 
 >>>
 + our new **identity** as sons/daughters
@@ -260,5 +278,5 @@ there they will be called <br>
 + in our **communities**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
 
