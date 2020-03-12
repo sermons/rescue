@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Rescuer of My Soul
-## Psalm 103:1-7
+## Psalm 103:1-7 (pt1/2)
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
