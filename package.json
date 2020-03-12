@@ -22,10 +22,16 @@
     },
     "history": [
       {
+        "venue": "Christ Church of China",
+        "city": "Coquitlam",
+        "date": "2020-03-15",
+        "duration": 0
+      },
+      {
         "venue": "Fujian Evangelical Church",
         "city": "Richmond",
         "date": "2020-02-22",
-        "duration": 0
+        "duration": 22
       }
     ],
     "slides": [
