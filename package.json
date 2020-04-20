@@ -7,7 +7,7 @@
     "worship",
     "sermon"
   ],
-  "version": "1.7.6",
+  "version": "1.8.0",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "rescue.seanho.com",
@@ -83,7 +83,7 @@
     "marked": "^0.8.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.1.0",
     "load-grunt-tasks": "^5.1.0",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-copy": "^1.0.0",
