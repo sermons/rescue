@@ -1,13 +1,9 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Rescuer of My Soul
-## Psalm 103:1-7 (pt1/2)
+## Psalm 103:1-7
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
-+ Waymaker
-  + Miracle worker
-  + Promise keeper
-  + Light in the darkness
 
 ---
 <!-- .slide: data-background="white" -->
@@ -67,16 +63,11 @@ his acts to the people of Israel.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
 ## Rescuer of My Soul
 1. **Healer** of Body + Soul [(v3)](# "ref")
-1. **Lifter** from Pit to Glory [(v4)](# "ref")
+1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
 1. **Rescuer** and Advocate [(v6)](# "ref")
 
 >>>
-+ v2 benefits: dealings, full interaction, wean
-+ v3: healer of body + soul
-+ v4: redeemer from pit to glory
-+ v5: provider of strength + satisfaction
-+ v6-7: rescuer + advocate
 
 ---
 <!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
@@ -92,12 +83,14 @@ and **forget** not all his **benefits**,
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
-+ worship focuses on **God**
++ benefits: not to focus on God's **utility** to us
+  + worship focuses on **God**
   + not on our **needs**, comfort, peace
-+ but 
-+ benefits: full dealings, wean
-  + interactions with, actions toward us
-  + can be positive or negative
++ benefits: full **dealings**, wean
+  + **interactions** with and **actions** toward us
+  + can be **positive** or **negative**
++ How has God **intervened** in our lives?
+  + How has God **treated** us?
 
 ---
 <!-- .slide: <%= bg("wm-Christ_Healing_the_Mother_of_Simon_Peters_Wife_by_John_Bridges.jpg") %> -->
@@ -108,7 +101,21 @@ who **heals** all your diseases,
 ["Christ Healing the Mother of Simon Peter’s Wife" <br>John Bridges, 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
-+ **healing** in spirit + body
++ **Forgiveness** is the medicine an ill soul needs most
++ Keenly **aware** of times I've said + done **terrible** things
+  + often **replay** like video in mind
+  + in moments when I least **expect** it
++ Try to **cope** by **comparing** to others:
+  + "**Others** have committed worse sins"
++ Or **anger** at God: "You **ask** too much of me!"
++ But the **healing** I need is to hear God say:
+  + "Yes, your sin was **inexcusable**"
+  + "But it's been **paid** for on the cross"
+  + "You are **forgiven**"
++ Christ's **healing** is for both **soul** and **body**
+  + Throughout Scripture, strong **connection**
+  + between **forgiveness** and physical **healing**
++ E.g., Jesus w/**paralytic** lowered through roof:
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
@@ -122,13 +129,26 @@ or to say, <br/>
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
-+ **forgiveness** || **healing**:
-+ v10-12: **heal** &rArr;
-  + show **auth** to forgive sins
-+ **Creator** has authority over
-  + **body**, fig tree, mountain
-+ &rArr; authority to **judge**
-  + and show **mercy**
++ **forgiveness** || **healing**
++ v10-12: **heal** &rArr; show **auth** to forgive
++ **Creator** has auth to **kill** and to **heal**
+  + so has auth to **judge** and show **mercy** -- forgive
++ Not that **illness** is God's **punishment** for sin --
+  + not nearly **enough** to pay for rebellion against God
++ But illness, cancer, COVID is from our **broken** world
+  + Broken bc mankind refused to **follow** Creator
++ Again in **James**:
+
+---
+And the prayer of **faith** <br>
+will **save** the one who is sick, <br>
+and the Lord will **raise** him up. 
+
+And if he has committed **sins**, he will be **forgiven**.
+
+[James 5:15 (ESV)](# "ref")
+
+>>>
 
 ---
 <!-- .slide: data-background="white" -->
@@ -138,7 +158,7 @@ or to say, <br/>
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
-1. **Lifter from Pit to Glory** [(v4)](# "ref")
+1. **Redeemer from Pit to Glory** [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
@@ -176,7 +196,7 @@ my **glory**, and the **lifter** of my head.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
-1. Lifter from Pit to Glory [(v4)](# "ref")
+1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
@@ -225,7 +245,7 @@ or shadow due to **change**.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. Healer of Body + Soul [(v3)](# "ref")
-1. Lifter from Pit to Glory [(v4)](# "ref")
+1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
 1. **Rescuer and Advocate** [(v6)](# "ref")
 
@@ -307,7 +327,7 @@ there they will be called <br>
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Rescuer of My Soul
 1. **Healer** of Body + Soul [(v3)](# "ref")
-1. **Lifter** from Pit to Glory [(v4)](# "ref")
+1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
 1. **Rescuer** and Advocate [(v6)](# "ref")
 
