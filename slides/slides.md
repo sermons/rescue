@@ -162,6 +162,11 @@ And if he has committed **sins**, he will be **forgiven**.
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
 1. Rescuer and Advocate [(v6)](# "ref")
 
+>>>
++ Jesus is the Great **Physician**
+  + heals our illnesses and offers us **forgiveness**
++ He's also our **pride** and **glory**:
+
 ---
 <!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 who **redeems** your life from the **pit**,<br>
