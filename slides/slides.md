@@ -177,9 +177,9 @@ steadfast **love and mercy**,
 [Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
-+ pit: depth, despair, trapped
-+ redeem: bought, rescue
-+ crown: surround, protect
++ pit: depth, **despair**, trapped
++ redeem: **bought** out, rescue
++ crown: **surround**, protect
 
 ---
 <!-- .slide: <%= bg("unsplash-1Z2niiBPg5A-mist_moor.jpg") %> -->
@@ -206,9 +206,6 @@ my **glory**, and the **lifter** of my head.
 1. Rescuer and Advocate [(v6)](# "ref")
 
 >>>
-+ youth renewed as the eagle
-+ every good + perfect gift
-+ good Father
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
