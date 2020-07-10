@@ -65,7 +65,7 @@ his acts to the people of Israel.
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer** and Advocate [(v6)](# "ref")
+1. **Rescuer** and Advocate [(v6-7)](# "ref")
 
 >>>
 
@@ -160,7 +160,7 @@ And if he has committed **sins**, he will be **forgiven**.
 1. Healer of Body + Soul [(v3)](# "ref")
 1. **Redeemer from Pit to Glory** [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
-1. Rescuer and Advocate [(v6)](# "ref")
+1. Rescuer and Advocate [(v6-7)](# "ref")
 
 >>>
 + Jesus is the Great **Physician**
@@ -203,7 +203,7 @@ my **glory**, and the **lifter** of my head.
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
-1. Rescuer and Advocate [(v6)](# "ref")
+1. Rescuer and Advocate [(v6-7)](# "ref")
 
 >>>
 
@@ -219,7 +219,7 @@ like the **eagle**'s.
 >>>
 + satisfy: eat til full, enough
   + adornments
-+ eagle:
++ eagle: 
 
 ---
 <!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
@@ -249,7 +249,7 @@ or shadow due to **change**.
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer and Advocate** [(v6)](# "ref")
+1. **Rescuer and Advocate** [(v6-7)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> -->
@@ -331,8 +331,13 @@ there they will be called <br>
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer** and Advocate [(v6)](# "ref")
+1. **Rescuer** and Advocate [(v6-7)](# "ref")
+
+>>>
++ xref other verses in Ps103
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
 
+>>>
++ **[ CLOSING PRAYER ]**
