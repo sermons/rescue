@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
-# Rescuer of My Soul
+# Bless the LORD, <br> O My Soul
 ## Psalm 103:1-7
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
@@ -7,7 +7,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Why do we **worship**?
+# Why is **worship** worth it?
 
 >>>
 + **orienting** our hearts to face God
@@ -61,7 +61,7 @@ his acts to the people of Israel.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
-## Rescuer of My Soul
+## Bless the LORD
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
@@ -156,7 +156,7 @@ And if he has committed **sins**, he will be **forgiven**.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Rescuer of My Soul
+## Bless the LORD
 1. Healer of Body + Soul [(v3)](# "ref")
 1. **Redeemer from Pit to Glory** [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
@@ -199,7 +199,7 @@ my **glory**, and the **lifter** of my head.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Rescuer of My Soul
+## Bless the LORD
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
@@ -245,7 +245,7 @@ or shadow due to **change**.
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Rescuer of My Soul
+## Bless the LORD
 1. Healer of Body + Soul [(v3)](# "ref")
 1. Redeemer from Pit to Glory [(v4)](# "ref")
 1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
@@ -327,7 +327,7 @@ there they will be called <br>
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Rescuer of My Soul
+## Bless the LORD
 1. **Healer** of Body + Soul [(v3)](# "ref")
 1. **Redeemer** from Pit to Glory [(v4)](# "ref")
 1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
