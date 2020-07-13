@@ -220,6 +220,20 @@ like the **eagle**'s.
 + satisfy: eat til full, enough
   + adornments
 + eagle: 
++ e.g., **shallow** patience w/family:
+  + wife going thru hard time
+  + want to be good hubby, listen, comfort, gentle
+  + seems to work, then she's still struggling
+  + then my patience runs out:
+  + I've done my part, why aren't you better? 
+  + best of intentions to help, but
+  + end up making things worse
++ deep patience comes from staying close to Jesus
+  + not trying harder to gen more patience
+  + but continually being resupplied by God
++ resting in His goodness + providence: content, satisfied
++ so much in the world is broken
+  + but God is stronger
 
 ---
 <!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
