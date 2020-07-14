@@ -224,7 +224,7 @@ like the **eagle**'s.
 
 >>>
 + satisfy: eat til full, enough: **adornments**
-+ eagle: power, speed
++ eagle: noted for **power**, speed, soaring height
 + e.g., **shallow** patience w/family:
   + wife going thru hard time
   + want to be good hubby, listen, comfort, gentle
