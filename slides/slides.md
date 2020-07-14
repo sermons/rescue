@@ -11,11 +11,13 @@
 
 >>>
 + **orienting** our hearts to face God
-+ focus on **who** God is
-  + His **worthiness**, glory, grace
++ focus on **who** God is: **worthiness**, glory, grace
 + remind **self** of God's power + love
-  + encourage fellow **believers** to stand firm in the faith
+  + encourage fellow **believers** to stand firm in faith
   + witness to **world**
++ this is our chance to **behold** the Lamb
+
++ **[ PRAYER ]**
 
 ******
 [1](# "ref")
@@ -62,12 +64,16 @@ his acts to the people of Israel.
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
 ## Bless the LORD
-1. **Healer** of Body + Soul [(v3)](# "ref")
-1. **Redeemer** from Pit to Glory [(v4)](# "ref")
-1. **Supplier** of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer** and Advocate [(v6-7)](# "ref")
+1. **Heals** Us in Body and Soul [(v3)](# "ref")
+1. **Lifts** Us from Pit to Glory [(v4)](# "ref")
+1. **Supplies** Us with Strength <br> and Satisfaction [(v5)](# "ref")
+1. **Rescues** and Advocates for Us [(v6-7)](# "ref")
 
 >>>
++ 1 of 3 sections of Ps103:
+  + God's **conduct** with us
+  + God's **compassion** toward us
+  + God's **constancy** in love + might
 
 ---
 <!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
@@ -157,10 +163,10 @@ And if he has committed **sins**, he will be **forgiven**.
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Bless the LORD
-1. Healer of Body + Soul [(v3)](# "ref")
-1. **Redeemer from Pit to Glory** [(v4)](# "ref")
-1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
-1. Rescuer and Advocate [(v6-7)](# "ref")
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. **Lifts Us from Pit to Glory** [(v4)](# "ref")
+1. Supplies Us with Strength <br> and Satisfaction [(v5)](# "ref")
+1. Rescues and Advocates for Us [(v6-7)](# "ref")
 
 >>>
 + Jesus is the Great **Physician**
@@ -200,10 +206,10 @@ my **glory**, and the **lifter** of my head.
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Bless the LORD
-1. Healer of Body + Soul [(v3)](# "ref")
-1. Redeemer from Pit to Glory [(v4)](# "ref")
-1. **Supplier of Strength** <br> **and Satisfaction** [(v5)](# "ref")
-1. Rescuer and Advocate [(v6-7)](# "ref")
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. Lifts Us from Pit to Glory [(v4)](# "ref")
+1. **Supplies Us with Strength <br> and Satisfaction** [(v5)](# "ref")
+1. Rescues and Advocates for Us [(v6-7)](# "ref")
 
 >>>
 
@@ -217,9 +223,8 @@ like the **eagle**'s.
 [Woodbine, NJ. Ray Hennessy](https://unsplash.com/photos/OjE4RtaibFc "caption")
 
 >>>
-+ satisfy: eat til full, enough
-  + adornments
-+ eagle: 
++ satisfy: eat til full, enough: **adornments**
++ eagle: power, speed
 + e.g., **shallow** patience w/family:
   + wife going thru hard time
   + want to be good hubby, listen, comfort, gentle
@@ -260,10 +265,10 @@ or shadow due to **change**.
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
 ## Bless the LORD
-1. Healer of Body + Soul [(v3)](# "ref")
-1. Redeemer from Pit to Glory [(v4)](# "ref")
-1. Supplier of Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescuer and Advocate** [(v6-7)](# "ref")
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. Lifts Us from Pit to Glory [(v4)](# "ref")
+1. Supplies Us with Strength <br> and Satisfaction [(v5)](# "ref")
+1. **Rescues and Advocates for Us** [(v6-7)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> -->
