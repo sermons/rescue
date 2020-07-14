@@ -317,10 +317,15 @@ who **satisfies** you with **good**
 >>>
 + satisfy: eat til full, enough: **adorns**
   + not that God's goal is to make us **happy**
-+ satisfies w/**good**: the gifts God gives to us are **good**
++ e.g., **I** might not feel satis until I
+  + finish **degree**, more **stable** in career,
+  + get **married**, have **children**, etc.
++ God doesn't promise to satis all we **long** for
++ but the **gifts** He gives us are **good**:
   + reflect His goodness + unchanging **love**
-+ If I have **Jesus**, though I **lose** all else in this life,
-  + I have **enough**: content, don't need more: satis
++ If I have **Jesus**,
+  + though I **lose** all else in this life,
++ I have **enough**: content, don't need more: **satisfied**
 
 ---
 <!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
@@ -338,8 +343,8 @@ or shadow due to **change**.
 >>>
 + does not **tempt** us to sin
   + does not **delight** in watching us **suffer**
-+ good **Father**
-  + satisfies us with **good**:
++ good **Father**, with unchanging **love**
++ He **equips** us with everything we need to **do** His will
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
@@ -349,19 +354,20 @@ like the **eagle**'s.
 [Psalm 103:5b (ESV)](# "ref")
 [Woodbine, NJ. Ray Hennessy](https://unsplash.com/photos/OjE4RtaibFc "caption")
 
+>>>
 + eagle: noted for **power**, speed, soaring height
   + can soar for **hours** w/o flapping wings
   + by staying **close** to the air currents / thermals
 + e.g., patience w/family often **shallow**:
-  + wife going thru **hard time**
+  + when wife going thru **hard time**
 + Want to be **good hubby**: listen, comfort, gentle
-  + seems to **work**, but then she's still **struggling**
-+ Patience **runs out**: "done **my part**, why aren't you **better**?"
-+ Best of **intentions** to help, but end up making things **worse**
+  + seems to **work**, but she's still **struggling**
++ Patience **runs out**: "done **my part**, why no **better**?"
++ Best of **intentions** to help, but made things **worse**
 + **Deep** patience comes from staying **close** to Jesus
   + not trying harder to **gen** more patience
   + but continually being **resupplied** by God
-+ **Resting** in His goodness + providence: content, satisfied
++ **Resting** in His goodness + provid: content, satis
 
 ---
 <!-- .slide: data-background="white" -->
@@ -398,13 +404,23 @@ and **justice** for all who are **oppressed**.
   + He **works**: action, perform
 + God has **seen** the injustice, has **heard** cries of poor --
   + and already **started** His plan of action!
-+ He chooses to involve **us** in His plan
-  + to speak up on behalf of the **poor** + oppressed
-  + to bring about **righteousness** + justice
+
+---
+And will not God give **justice** to his elect, <br>
+who **cry** to him day and night? <br>
+Will he **delay** long over them?
+
+[Luke 18:7 (ESV)](# "ref")
+
+>>>
++ **God** is the one who brings about justice, but
+  + He chooses to involve **us** in His plan
++ To speak up on behalf of the **poor** + oppressed
+  + to seek His **righteousness** + justice
 + Justice is not defined by democratic **vote**
   + or by **intensity** of conviction, whoever **shouts** loudest
-+ It's defined by the **Creator** God
-  + His justice is not **vague** and unknowable, bc
++ Justice is defined by the **Creator** God
+  + And His ways are not **vague** or unknowable, bc
 
 ---
 <!-- .slide: <%= bg("unsplash-1EbsMYrAu-s-bible_glasses.jpg") %> -->
@@ -420,7 +436,14 @@ his acts to the **people** of Israel.
 
 ---
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
+Long ago, at many times and in many ways, <br>
+God spoke to our fathers by the prophets, <br>
+[2](# "ref")
+but in these last days he has spoken to us by his Son, <br>
+whom he appointed the heir of all things, <br>
+through whom also he created the world.
 
+[Hebrews 1:1-2 (ESV)](# "ref")
 [Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
 
 >>>
