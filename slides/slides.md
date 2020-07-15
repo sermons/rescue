@@ -145,7 +145,8 @@ who **heals** all your diseases,
 >>>
 + Throughout Scripture, strong **connection**
   + between **forgiveness** + physical **healing**
-+ E.g., **paralytic** lowered through roof for Jesus to heal:
++ E.g., **paralytic** lowered through roof 
+  + for Jesus to heal:
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
@@ -159,14 +160,14 @@ or to say, <br/>
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
-+ **forgiveness** || **healing**
-+ subseq vs in Mk: **heal** &rArr; show **auth** to forgive
++ next vs: **heal** &rArr; show **auth** to forgive
 + **Creator** has auth over our bodies: **kill** + **heal**
   + so has auth over our **souls**:
   + to **judge** + show **mercy** / forgive
 + Not that **illness** is God's **punish** for indiv sin --
-  + not nearly **enough** to pay for rebellion against God!
-+ But illness, cancer, COVID is from our **broken** world
+  + not nearly **enough** to pay 
+  + for our **rebellion** against God!
++ illness, cancer, COVID: from **broken** world
   + Broken bc mankind refused to **follow** Creator
 + Again in **James**:
 
@@ -180,10 +181,10 @@ And if he has committed **sins**, he will be **forgiven**.
 [James 5:15 (ESV)](# "ref")
 
 >>>
-+ Each person 1 **integral** being: body, mind, heart, soul
++ Each is 1 **integral** being: body, mind, heart, soul
   + Christ's **healing** is for the whole person
-+ When **soul** ill, medicine we need most is **forgiveness**
-+ Keenly **aware** of times I've said + done **terrible** things
++ When **soul** ill, med. need most is **forgiveness**
++ Keenly **aware** I've said + done **terrible** things
   + often **replay** like video in mind
   + in moments when I least **expect** it
 + Try to **cope** by (1) **comparing** w/others:
@@ -200,10 +201,12 @@ And if he has committed **sins**, he will be **forgiven**.
 
 >>>
 + Doctors take a patient's **medical history**:
-  + past illnesses impact future **diagnosis** + treatment
+  + **past** illnesses impact 
+  + **future** diagnosis + treatment
 + What's the history of your **heart**?
   + trauma, disappointment, resentment, addiction
-+ How is Christ **healing** you?  (perhaps still in **progress**)
++ How is Christ **healing** you?
+  + (perhaps still in **progress**)
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
@@ -228,9 +231,9 @@ who **redeems** your life from the **pit**
   + even used to refer to **death** / the grave
 + Finality: no more **fight** left in you, no **options**
 + OT **prophets** familar w/this feeling:
-  + **Jer** spoke God's Word to people of **Jeru**
+  + **Jeremiah** spoke God's Word to people of **Jeru**
   + not to **rebel** against God's discipline
-+ They called Jer a **traitor** and
++ They called Jeremiah a **traitor** and
   + left him to **die** in a deep well:
 
 ---
@@ -245,7 +248,8 @@ but only mud, and Jeremiah **sank** in the mud.
 + But reveal God's own **glory** 
   + bestow on Jer dignity + **courage** in trust of God
 + Proclaim **boldly** to King Zedekiah that if he
-  + refused to **surrender** to Babyl + God's chastisement,
+  + refused to **surrender** to Babylon
+  + and God's **chastisement**, that his
 
 ---
 Your trusted friends have **deceived** you<br>
@@ -267,8 +271,8 @@ who **crowns** you with **steadfast love** and mercy
 [Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
-+ steadfast love: God's unbreakable covenant **promise**
-  + rooted not in our **performance** or worthiness
++ steadfast love: God's unbreak covenant **promise**
+  + rooted not in **performance** / worthiness
   + but in **who** He is
 + crown: **surround**, protect:
   + When we look all around us, in every direction
@@ -287,11 +291,11 @@ my **glory**, and the **lifter** of my head.
 >>>
 + When I feel **beat down**, disgraced, ashamed
   + don't need to **defend** own pride
-+ my **glory** doesn't come from **asserting** my credentials
++ **glory** not from **asserting** my credentials
   + **proving** how capable or hard-working I am
 + my glory is the **Lord**: and my **shield**,
   + and the One who **lifts** my head up with dignity
-+ **Honour** is not sth I **earn** for myself,
++ **Honour** is not something **earned** for myself,
   + it is **imparted** to me by my Creator
 
 ---
@@ -319,10 +323,10 @@ who **satisfies** you with **good**
 >>>
 + satisfy: eat til full, enough: **adorns**
   + not that God's goal is to make us **happy**
-+ e.g., **I** might not feel satis until I
++ e.g., **I** might not feel satisfied until I
   + finish **degree**, more **stable** in career,
   + get **married**, have **children**, etc.
-+ God doesn't promise to satis all we **long** for
++ God doesn't promise to satisfy all we **long** for
 + but the **gifts** He gives us are **good**:
   + reflect His goodness + unchanging **love**
 + If I have **Jesus**,
@@ -346,7 +350,8 @@ or shadow due to **change**.
 + does not **tempt** us to sin
   + does not **delight** in watching us **suffer**
 + good **Father**, with unchanging **love**
-+ He **equips** us with everything we need to **do** His will
++ He **equips** us with everything we need 
+  + to **do** His will
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
@@ -364,7 +369,7 @@ like the **eagle**'s.
   + when wife going thru **hard time**
 + Want to be **good hubby**: listen, comfort, gentle
   + seems to **work**, but she's still **struggling**
-+ Patience **runs out**: "done **my part**, why no **better**?"
++ Patience **runs out**: "did **my part**"
 + Best of **intentions** to help, but made things **worse**
 + **Deep** patience comes from staying **close** to Jesus
   + not trying harder to **gen** more patience
@@ -402,10 +407,12 @@ and **justice** for all who are **oppressed**.
 >>>
 + oppressed: suffer **violence**, abuse of power
   + could be **ourselves**, or **others** around us
-+ God is not **passive**: good **intentions**, **wishful** thinking
-  + He **works**: action, perform
-+ God has **seen** the injustice, has **heard** cries of poor --
-  + and already **started** His plan of action!
++ God is not **passive**: 
+  + just good **intentions**, **wishful** thinking
++ He **works**: action, perform
++ God has **seen** the injustice, 
+  + has **heard** cries of poor --
++ and already **started** His plan of action!
 
 ---
 And will not God give **justice** to his elect, <br>
@@ -420,7 +427,8 @@ Will he **delay** long over them?
 + To speak up on behalf of the **poor** + oppressed
   + to seek His **righteousness** + justice
 + Justice is not defined by democratic **vote**
-  + or by **intensity** of conviction, whoever **shouts** loudest
+  + or by **intensity** of conviction,
+  + whoever **shouts** loudest
 + Justice is defined by the **Creator** God
   + And His ways are not **vague** or unknowable, bc
 
@@ -444,11 +452,15 @@ his acts to the **people** of Israel.
 >>>
 + in our **lives**, in our **communities**
 + even when we don't **see** His **promises** fulfilled
-+ sometimes bc we have a short **memory**
++ sometimes it's bc we have a short **memory**
   + sometimes bc we're not **home** yet
-+ remind **ourselves** that God is **just**
-  + encourage **one another** in the faith
-  + bear witness to the **world**
++ **Remind** ourselves that God is **just**
+  + He **sees** the oppressed
++ He **knows** us, and has revealed Himself
+  + that we may come to **know** Him
++ Worship is to remind **ourselves** of this,
+  + to encourage **one another** in the faith,
+  + and to bear witness to the **world**
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -500,15 +512,17 @@ his acts to the people of Israel.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
 
 >>>
-+ It is **good** to bless Your Name, O Lord
-+ good that we **remind** ourselves of your **conduct** to us
++ It is **good** to bless Your Name, O Lord, good 
+  + that we **remind** selves of your **conduct** to us
 + that You **forgive** our sins, **heal** our illnesses,
-+ **lift** us out of the pit, **crown** us with Your covenant love,
++ **lift** us from pit, **crown** us w/covenant love,
 + **supply** us abundantly with good blessings
-  + and **resupply** our strength to do good to others.
-+ You deliver **justice** + vindication to Your oppressed sons+daughters.
-+ We have **seen** Your goodness in our **lives** in this broken world
-  + And we will **proclaim** this testimony to all
+  + **resupply** strength to do good to others.
++ You deliver **justice** + vindication 
+  + to Your oppressed **sons + daughters**.
++ We have **seen** Your goodness 
+  + in our **lives** in this broken world
++ And we will **proclaim** this testimony to all
 
 ---
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
