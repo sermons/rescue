@@ -224,7 +224,7 @@ who **redeems** your life from the **pit**
 [Psalm 103:4 (ESV)](# "ref")
 
 >>>
-+ pit: depth, **despair**, trapped
++ pit: depth, **despair**, trapped, surrounded
   + even used to refer to **death** / the grave
 + Finality: no more **fight** left in you, no **options**
 + OT **prophets** familar w/this feeling:
@@ -449,6 +449,52 @@ his acts to the **people** of Israel.
 + remind **ourselves** that God is **just**
   + encourage **one another** in the faith
   + bear witness to the **world**
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+[1](# "ref")
+Bless the Lord, O my soul,<br>
+and all that is within me,<br>
+bless his holy name!
+
+[2](# "ref")
+Bless the Lord, O my soul,<br>
+and forget not all his benefits,
+
+[Psalm 103:1-7 (ESV) (p.1/3)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+[3](# "ref")
+who forgives all your iniquity,<br>
+who heals all your diseases,
+
+[4](# "ref")
+who redeems your life from the pit,<br>
+who crowns you with <br>
+steadfast love and mercy,
+
+[Psalm 103:1-7 (ESV) (p.2/3)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+[5](# "ref")
+who satisfies you with good<br>
+so that your youth is renewed <br>
+like the eagle's.
+
+[6](# "ref")
+The Lord works righteousness<br>
+and justice for all who are oppressed.
+
+[7](# "ref")
+He made known his ways to Moses,<br>
+his acts to the people of Israel.
+
+[Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
+
+>>>
+**[ CLOSING PRAYER ]**
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
