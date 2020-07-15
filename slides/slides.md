@@ -433,20 +433,7 @@ his acts to the **people** of Israel.
 >>>
 + not the **unknown** God
   + but **revealed**: ways and acts
-
----
-<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
-Long ago, at many times and in many ways, <br>
-God spoke to our fathers by the prophets, <br>
-[2](# "ref")
-but in these last days he has spoken to us by his Son, <br>
-whom he appointed the heir of all things, <br>
-through whom also he created the world.
-
-[Hebrews 1:1-2 (ESV)](# "ref")
-[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
-
->>>
++ **Near** to us, that we may **seek** Him + find
 
 ---
 <!-- .slide: data-background="white" -->
@@ -454,15 +441,10 @@ through whom also he created the world.
 
 >>>
 + in our **lives**, in our **communities**
-+ when we don't **see** His **promises** fulfilled
-  + sometimes bc we have a short **memory**
++ even when we don't **see** His **promises** fulfilled
++ sometimes bc we have a short **memory**
   + sometimes bc we're not **home** yet
-+ but we **declare** this truth:
-  + God is **healer**
-  + **lifts** us from pit to glory
-  + supplies our needs w/very **best** gifts
-  + **rescues** and works **justice** for us
-+ remind **ourselves**
++ remind **ourselves** that God is **just**
   + encourage **one another** in the faith
   + bear witness to the **world**
 
@@ -479,3 +461,7 @@ through whom also he created the world.
 + You deliver **justice** + vindication to Your oppressed sons+daughters.
 + We have **seen** Your goodness in our **lives** in this broken world
   + And we will **proclaim** this testimony to all
+
+---
+<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
+[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
