@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
 # Bless the LORD, <br> O My Soul
-## Psalm 103:1-7
+# 我的心哪，<br> 你要稱頌耶和華！
+## Psalm 詩篇 103:1-7
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
@@ -29,14 +30,19 @@
 ******
 [1](# "ref")
 Bless the Lord, O my soul,<br>
-and all that is within me,<br>
-bless his holy name!
+and all that is within me, bless his holy name!
+
+我的心哪，你要稱頌耶和華！<br>
+凡在我裡面的，也要稱頌他的聖名！
 
 [2](# "ref")
 Bless the Lord, O my soul,<br>
 and forget not all his benefits,
 
-[Psalm 103:1-7 (ESV) (p.1/3)](# "ref")
+我的心哪，你要稱頌耶和華！<br>
+不可忘記他的一切恩惠！
+
+[Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ******
 
@@ -44,33 +50,49 @@ and forget not all his benefits,
 who forgives all your iniquity,<br>
 who heals all your diseases,
 
+他赦免你的一切罪孽，<br>
+醫治你的一切疾病。
+
 [4](# "ref")
 who redeems your life from the pit,<br>
-who crowns you with <br>
-steadfast love and mercy,
+who crowns you with steadfast love and mercy,
 
-[Psalm 103:1-7 (ESV) (p.2/3)](# "ref")
+他救贖你的命脫離死亡，<br>
+以仁愛和慈悲為你的冠冕。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ******
 
 [5](# "ref")
 who satisfies you with good<br>
-so that your youth is renewed <br>
-like the eagle's.
+so that your youth is renewed like the eagle's.
 
+他用美物使你所願的得以知足，<br>
+以致你如鷹返老還童。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
+
+******
 [6](# "ref")
 The Lord works righteousness<br>
 and justice for all who are oppressed.
+
+耶和華施行公義，<br>
+為一切受屈的人伸冤。
 
 [7](# "ref")
 He made known his ways to Moses,<br>
 his acts to the people of Israel.
 
-[Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
+他使摩西知道他的法則，<br>
+叫以色列人曉得他的作為。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Ps 103 Overview
+## Ps 詩篇 103 Overview
 1. God's **Conduct** with Us [(v1-7)](# "ref")
 1. God's **Compassion** toward Us [(v8-14)](# "ref")
 1. God's **Constancy** in Love and Might [(v15-22)](# "ref")
@@ -95,7 +117,10 @@ ______
 and all that is **within me**,<br>
 bless his holy name!
 
-[Psalm 103:1 (ESV)](# "ref")
+我的心哪，你要稱頌耶和華！<br>
+凡在我裡面的，也要稱頌他的聖名！
+
+[Psalm 詩篇 103:1 (ESV)](# "ref")
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
@@ -114,7 +139,10 @@ bless his holy name!
 Bless the Lord, O my soul,<br>
 and **forget** not all his **benefits**,
 
-[Psalm 103:2 (ESV)](# "ref")
+我的心哪，你要稱頌耶和華！<br>
+不可忘記他的一切恩惠！
+
+[Psalm 詩篇 103:2 (ESV)](# "ref")
 
 >>>
 + benefits: not about God's **utility** to us
@@ -131,7 +159,7 @@ and **forget** not all his **benefits**,
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
-## Bless the LORD
+## Bless the LORD 你要稱頌耶和華
 1. **Heals** Us in Body and Soul [(v3)](# "ref")
 1. **Lifts** Us from Pit to Glory [(v4)](# "ref")
 1. **Supplies** Us with Strength <br> and Satisfaction [(v5)](# "ref")
@@ -148,7 +176,10 @@ and **forget** not all his **benefits**,
 who **forgives** all your iniquity,<br>
 who **heals** all your diseases,
 
-[Psalm 103:3 (ESV)](# "ref")
+他赦免你的一切罪孽，<br>
+醫治你的一切疾病。
+
+[Psalm 詩篇 103:3 (ESV)](# "ref")
 ["Christ Healing the Mother of Simon Peter’s Wife" <br>John Bridges, 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
@@ -165,7 +196,11 @@ Which is easier, to say to the paralytic,  <br/>
 or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
-[Mark 2:9 (ESV)](# "ref")
+或對癱子說你的罪赦了，<br>
+或說起來！拿你的褥子行走；<br>
+那一樣容易呢？
+
+[Mark 馬可 2:9 (ESV)](# "ref")
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -187,7 +222,11 @@ and the Lord will **raise** him up.
 
 And if he has committed **sins**, he will be **forgiven**.
 
-[James 5:15 (ESV)](# "ref")
+出於信心的祈禱要救那病人，<br>
+主必叫他起來；<br>
+他若犯了罪，也必蒙赦免。
+
+[James 雅各 5:15 (ESV)](# "ref")
 
 >>>
 + Each is 1 **integral** being: body, mind, heart, soul
@@ -233,7 +272,10 @@ And if he has committed **sins**, he will be **forgiven**.
 ---
 who **redeems** your life from the **pit**
 
-[Psalm 103:4 (ESV)](# "ref")
+他救贖你的命脫離死亡，<br>
+以仁愛和慈悲為你的冠冕。
+
+[Psalm 詩篇 103:4 (ESV)](# "ref")
 
 >>>
 + pit: depth, **despair**, trapped, surrounded
@@ -249,7 +291,10 @@ who **redeems** your life from the **pit**
 And there was no water in the **cistern**, <br>
 but only mud, and Jeremiah **sank** in the mud.
 
-[Jeremiah 38:6b (ESV)](# "ref")
+牢獄裡沒有水，只有淤泥，<br>
+耶利米就陷在淤泥中。
+
+[Jeremiah 耶利米 38:6b (ESV)](# "ref")
 
 >>>
 + But God the **Redeemer** had a **plan**
@@ -266,7 +311,10 @@ and prevailed against you;<br>
 now that your feet are **sunk** in the mud,<br>
 they turn away from you.
 
-[Jeremiah 38:22 (ESV)](# "ref")
+你知己的朋友催逼你，勝過你；<br>
+見你的腳陷入淤泥中，就轉身退後了。
+
+[Jeremiah 耶利米 38:22 (ESV)](# "ref")
 
 >>>
 + and God **turned** the snares of Jer's enemies
@@ -276,7 +324,10 @@ they turn away from you.
 <!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 who **crowns** you with **steadfast love** and mercy
 
-[Psalm 103:4 (ESV)](# "ref")
+他救贖你的命脫離死亡，<br>
+以仁愛和慈悲為你的冠冕。
+
+[Psalm 詩篇 103:4 (ESV)](# "ref")
 [Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
@@ -294,7 +345,10 @@ who **crowns** you with **steadfast love** and mercy
 But you, O Lord, are a **shield** about me, <br>
 my **glory**, and the **lifter** of my head.
 
-[Psalm 3:3 (ESV)](# "ref")
+但你─耶和華是我四圍的盾牌，<br>
+是我的榮耀，又是叫我抬起頭來的。
+
+[Psalm 詩篇 3:3 (ESV)](# "ref")
 [Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A "caption")
 
 >>>
@@ -327,7 +381,9 @@ my **glory**, and the **lifter** of my head.
 ---
 who **satisfies** you with **good**
 
-[Psalm 103:5a (ESV)](# "ref")
+他用美物使你所願的得以知足
+
+[Psalm 詩篇 103:5a (ESV)](# "ref")
 
 >>>
 + satisfy: eat til full, enough: **adorns**
@@ -347,13 +403,24 @@ who **satisfies** you with **good**
 Every **good gift** and every **perfect gift** <br>
 is from above, 
 
+各樣美善的恩賜和各樣全備的賞賜<br>
+都是從上頭來的，
+
+[James 雅各 1:17 (ESV) (p.1/2)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 coming down from the **Father of lights**, 
 
 with whom there is no **variation** <br>
 or shadow due to **change**.
 
-[James 1:17 (ESV)](# "ref")
-[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
+從眾光之父那裡降下來的；<br>
+在他並沒有改變，<br>
+也沒有轉動的影兒。
+
+[James 雅各 1:17 (ESV) (p.2/2)](# "ref")
 
 >>>
 + does not **tempt** us to sin
@@ -367,7 +434,9 @@ or shadow due to **change**.
 so that your **youth** is renewed <br>
 like the **eagle**'s.
 
-[Psalm 103:5b (ESV)](# "ref")
+以致你如鷹返老還童。
+
+[Psalm 詩篇 103:5b (ESV)](# "ref")
 [Woodbine, NJ. Ray Hennessy](https://unsplash.com/photos/OjE4RtaibFc "caption")
 
 >>>
@@ -410,7 +479,10 @@ like the **eagle**'s.
 The Lord works **righteousness**<br>
 and **justice** for all who are **oppressed**.
 
-[Psalm 103:6 (ESV)](# "ref")
+耶和華施行公義，<br>
+為一切受屈的人伸冤。
+
+[Psalm 詩篇 103:6 (ESV)](# "ref")
 [Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 >>>
@@ -428,7 +500,11 @@ And will not God give **justice** to his elect, <br>
 who **cry** to him day and night? <br>
 Will he **delay** long over them?
 
-[Luke 18:7 (ESV)](# "ref")
+神的選民晝夜呼籲他，<br>
+他縱然為他們忍了多時，<br>
+豈不終久給他們伸冤麼？
+
+[Luke 路加 18:7 (ESV)](# "ref")
 
 >>>
 + **God** is the one who brings about justice, but
@@ -446,7 +522,10 @@ Will he **delay** long over them?
 He **made known** his ways to Moses,<br>
 his acts to the **people** of Israel.
 
-[Psalm 103:7 (ESV)](# "ref")
+他使摩西知道他的法則，<br>
+叫以色列人曉得他的作為。
+
+[Psalm 詩篇 103:7 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
@@ -475,14 +554,19 @@ his acts to the **people** of Israel.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [1](# "ref")
 Bless the Lord, O my soul,<br>
-and all that is within me,<br>
-bless his holy name!
+and all that is within me, bless his holy name!
+
+我的心哪，你要稱頌耶和華！<br>
+凡在我裡面的，也要稱頌他的聖名！
 
 [2](# "ref")
 Bless the Lord, O my soul,<br>
 and forget not all his benefits,
 
-[Psalm 103:1-7 (ESV) (p.1/3)](# "ref")
+我的心哪，你要稱頌耶和華！<br>
+不可忘記他的一切恩惠！
+
+[Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -490,29 +574,46 @@ and forget not all his benefits,
 who forgives all your iniquity,<br>
 who heals all your diseases,
 
+他赦免你的一切罪孽，<br>
+醫治你的一切疾病。
+
 [4](# "ref")
 who redeems your life from the pit,<br>
-who crowns you with <br>
-steadfast love and mercy,
+who crowns you with steadfast love and mercy,
 
-[Psalm 103:1-7 (ESV) (p.2/3)](# "ref")
+他救贖你的命脫離死亡，<br>
+以仁愛和慈悲為你的冠冕。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [5](# "ref")
 who satisfies you with good<br>
-so that your youth is renewed <br>
-like the eagle's.
+so that your youth is renewed like the eagle's.
 
+他用美物使你所願的得以知足，<br>
+以致你如鷹返老還童。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 [6](# "ref")
 The Lord works righteousness<br>
 and justice for all who are oppressed.
+
+耶和華施行公義，<br>
+為一切受屈的人伸冤。
 
 [7](# "ref")
 He made known his ways to Moses,<br>
 his acts to the people of Israel.
 
-[Psalm 103:1-7 (ESV) (p.3/3)](# "ref")
+他使摩西知道他的法則，<br>
+叫以色列人曉得他的作為。
+
+[Psalm 詩篇 103:1-7 (ESV) (p.4/4)](# "ref")
 
 >>>
 **[ CLOSING PRAYER ]**
