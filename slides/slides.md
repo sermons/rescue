@@ -103,9 +103,9 @@ bless his holy name!
   + even when we don't **feel** like it
 + **Bless**: declare how **good** God is
 + Not just a perfunctory **ritual**:
-  + say **grace** before meal
-  + **read** a chapter of Bible
-  + **watch** to an hour of church videos a week
+  + saying **grace** before meal
++ Not just **reading** a chapter of Bible
+  + **watching** hour of church videos a week
 + Tell my whole **being** to bless the Lord!
 + How? By having a good **memory**:
 
