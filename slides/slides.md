@@ -16,12 +16,15 @@
 # Why is **worship** worth it?
 
 >>>
-+ **orienting** our hearts to face God
-+ focus on **who** God is: **worthiness**, glory, grace
-+ remind **self** of God's power + love
-  + encourage fellow **believers** to stand firm in faith
-  + witness to **world**
-+ worship is **beholding** the Lamb
++ Worship is: **orienting** our hearts to face God
++ Focusing on **who** God is: **worthiness**, glory, grace
++ Reminding **self** of God's power + love
+  + encouraging fellow **believers** stand firm in faith
+  + bearing witness to **world**
++ The more we remember **truth** of who God is,
+  + the more we are **transformed** into 
+  + the **image** of God, from **glory** to glory.
++ Worship is **beholding** the Lamb
 + **[ PRAYER ]**
 
 ******
