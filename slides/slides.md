@@ -8,7 +8,7 @@
 + sometimes bc sooo **busy**, to-do list
   + sometimes bc **tired** or even **depr**
 + does it make a **difference** to worship God?
-  + does it really help **me**,
++ does it really help **me**,
   + or **others** who are hurting?
 
 ---
@@ -22,7 +22,6 @@
   + encourage fellow **believers** to stand firm in faith
   + witness to **world**
 + worship is **beholding** the Lamb
-
 + **[ PRAYER ]**
 
 ******
@@ -91,14 +90,14 @@ bless his holy name!
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
-+ **imperative** command given to our own soul
-  + even when I don't **feel** like it
++ **imperative** we give to our own soul
+  + even when we don't **feel** like it
 + **Bless**: declare how **good** God is
 + Not just a perfunctory **ritual**:
   + say **grace** before meal
   + **read** a chapter of Bible
   + **watch** to an hour of church videos a week
-+ But **tell** my whole **being** to bless the Lord!
++ Tell my whole **being** to bless the Lord!
 + How? By having a good **memory**:
 
 ---
@@ -110,15 +109,16 @@ and **forget** not all his **benefits**,
 
 >>>
 + benefits: not about God's **utility** to us
-  + focus on **God**, not our **needs**, comfort, peace
-+ benefits: full **dealings**, wean
-  + **interactions** with and **actions** toward us
+  + focus on **God**, not our **needs** / comfort
++ benefits: full **dealings**, totality of actions: wean
+  + **actions** toward and **interactions** with us
   + can be **positive** or **negative**
 + How has God **intervened** in our lives?
   + How has God **treated** us?
-+ Section we're focusing on concisely summarises
++ Today's passage summarises
   + 4 areas of God's **conduct** toward us
-+ God is not **distant**, or blind, or uncaring:
++ God is not **distant**, or blind, or uncaring
+  + instead, He
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" class="outline" -->
@@ -161,8 +161,9 @@ or to say, <br/>
 >>>
 + **forgiveness** || **healing**
 + subseq vs in Mk: **heal** &rArr; show **auth** to forgive
-+ **Creator** has auth to **kill** + **heal** body
-  + so has auth to **judge** and show **mercy** -- forgive
++ **Creator** has auth over our bodies: **kill** + **heal**
+  + so has auth over our **souls**:
+  + to **judge** + show **mercy** / forgive
 + Not that **illness** is God's **punish** for indiv sin --
   + not nearly **enough** to pay for rebellion against God!
 + But illness, cancer, COVID is from our **broken** world
@@ -228,7 +229,7 @@ who **redeems** your life from the **pit**
 + Finality: no more **fight** left in you, no **options**
 + OT **prophets** familar w/this feeling:
   + **Jer** spoke God's Word to people of **Jeru**
-  + not to **rebel** against Bab. exile brought by God
+  + not to **rebel** against God's discipline
 + They called Jer a **traitor** and
   + left him to **die** in a deep well:
 
@@ -255,7 +256,8 @@ they turn away from you.
 [Jeremiah 38:22 (ESV)](# "ref")
 
 >>>
-+ and God **turned** the snares of Jer's enemies back on themselves
++ and God **turned** the snares of Jer's enemies
+  + **back** on themselves
 
 ---
 <!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
