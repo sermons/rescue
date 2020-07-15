@@ -25,7 +25,6 @@
   + the more we are **transformed** into 
   + the **image** of God, from **glory** to glory.
 + Worship is **beholding** the Lamb
-+ **[ PRAYER ]**
 
 ******
 [1](# "ref")
@@ -77,10 +76,17 @@ his acts to the people of Israel.
 1. God's **Constancy** in Love and Might [(v15-22)](# "ref")
 
 >>>
-+ Ps103 has 3 sections:
-  + God's **conduct** with us
-  + God's **compassion** toward us
-  + God's **constancy** in love + might
++ **[ PRAYER ]**
+  + we are **hurting** + broken,
+  + **weak** + easily **distracted** by world
+  + not enough **strength** to lead **holy** lives
+  + But **You**, O Lord, You never **change**
+  + Your **conduct** toward us full of **compassion**
+  + As we gaze into Your **Scriptures**
+  + **unveil** our hearts and
+  + **transform** us with Your Spirit
+______
++ Ps103 has 3 **sections**:
 + focus today on 1st: v1-7
 
 ---
