@@ -119,10 +119,10 @@ and **forget** not all his **benefits**,
 >>>
 + benefits: not about God's **utility** to us
   + focus on **God**, not our **needs** / comfort
-+ benefits: full **dealings**, totality of actions: wean
-  + **actions** toward and **interactions** with us
++ benefits: full **dealings**, totality of actions. Wean
   + can be **positive** or **negative**
-+ How has God **intervened** in our lives?
++ **Actions** toward and **interactions** with us:
+  + How has God **intervened** in our lives?
   + How has God **treated** us?
 + Today's passage summarises
   + 4 areas of God's **conduct** toward us
