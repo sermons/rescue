@@ -218,9 +218,9 @@ or to say, <br/>
 ---
 And the prayer of **faith** <br>
 will **save** the one who is sick, <br>
-and the Lord will **raise** him up. 
-
-And if he has committed **sins**, he will be **forgiven**.
+and the Lord will **raise** him up. <br>
+And if he has committed **sins**, <br>
+he will be **forgiven**.
 
 出於信心的祈禱要救那病人，<br>
 主必叫他起來；<br>
