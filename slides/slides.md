@@ -94,11 +94,11 @@ his acts to the people of Israel.
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 ## Ps 詩篇 103 Overview
 1. God's **Conduct** with Us <br>
-  神對我們的作為 [(v1-7)](# "ref")
+  神對我們的 **作為** [(v1-7)](# "ref")
 1. God's **Compassion** toward Us <br>
-  神對我們的憐憫 [(v8-14)](# "ref")
+  神對我們的 **憐憫** [(v8-14)](# "ref")
 1. God's **Constancy** in Love and Might <br>
-  神恆久不變的愛和大能 [(v15-22)](# "ref")
+  神恆久不變的 **愛和大能** [(v15-22)](# "ref")
 
 >>>
 + **[ PRAYER ]**
@@ -167,7 +167,7 @@ and **forget** not all his **benefits**,
   醫治我們的身體和心靈 [(v3)](# "ref")
 1. **Lifts** Us from Pit to Glory <br>
   提起我們從死亡至榮耀 [(v4)](# "ref")
-1. **Supplies** Us with Strength <br> and Satisfaction
+1. **Supplies** Us with Strength and Satisfaction <br>
   供應我們力量和滿足 [(v5)](# "ref")
 1. **Rescues** and Advocates for Us  <br>
   拯救而且支持我們 [(v6-7)](# "ref")
@@ -264,12 +264,16 @@ he will be **forgiven**.
   + (perhaps still in **progress**)
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Bless the LORD
-1. Heals Us in Body and Soul [(v3)](# "ref")
-1. **Lifts Us from Pit to Glory** [(v4)](# "ref")
-1. Supplies Us with Strength <br> and Satisfaction [(v5)](# "ref")
-1. Rescues and Advocates for Us [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+## Bless the LORD 稱頌耶和華
+1. Heals Us in Body and Soul <br>
+  醫治我們的身體和心靈 [(v3)](# "ref")
+1. **Lifts Us from Pit to Glory** <br>
+  提起我們從死亡至榮耀 [(v4)](# "ref")
+1. Supplies Us with Strength and Satisfaction <br>
+  供應我們力量和滿足 [(v5)](# "ref")
+1. Rescues and Advocates for Us  <br>
+  拯救而且支持我們 [(v6-7)](# "ref")
 
 >>>
 + Jesus is the Great **Physician**
