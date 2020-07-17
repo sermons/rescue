@@ -1,8 +1,8 @@
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> id="title" -->
 # Bless the LORD, <br> O My Soul
 # 我的心哪，<br> 你要稱頌耶和華！
 ## Psalm 詩篇 103:1-7
-[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
+[Quarry Rock, Baden Powell Trail, North Vancouver, BC. @sanketh_nm](https://unsplash.com/photos/o4Bbh68aGdg "caption")
 
 >>>
 + don't always **feel** like worshipping God
@@ -165,7 +165,7 @@ and **forget** not all his **benefits**,
   + instead, He
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> id="outline" -->
 ## Bless the LORD 稱頌耶和華
 1. **Heals** Us in Body and Soul <br>
   **醫治** 我們的身體和心靈 [(v3)](# "ref")
@@ -271,7 +271,7 @@ he will be **forgiven**.
   + (perhaps still in **progress**)
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -391,7 +391,7 @@ my **glory**, and the **lifter** of my head.
 ## 我何時曾經處在 **死亡深淵** ？ 神 如何提我 **起來** ？
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -496,7 +496,7 @@ like the **eagle**'s.
   + to be **empowered** to be a blessing to others?
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -590,7 +590,7 @@ his acts to the **people** of Israel.
   + and to bear witness to the **world**
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 [1](# "ref")
 Bless the Lord, O my soul,<br>
 and all that is within me, bless his holy name!
@@ -608,7 +608,7 @@ and forget not all his benefits,
 [Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 [3](# "ref")
 who forgives all your iniquity,<br>
 who heals all your diseases,
@@ -626,7 +626,7 @@ who crowns you with steadfast love and mercy,
 [Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 [5](# "ref")
 who satisfies you with good<br>
 so that your youth is renewed like the eagle's.
@@ -637,7 +637,7 @@ so that your youth is renewed like the eagle's.
 [Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> -->
 [6](# "ref")
 The Lord works righteousness<br>
 and justice for all who are oppressed.
@@ -658,7 +658,7 @@ his acts to the people of Israel.
 **[ CLOSING PRAYER ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-o4Bbh68aGdg-nvan_water.jpg") %> class="empty" -->
 
 >>>
 + It is **good** to bless Your Name, O Lord, good 
