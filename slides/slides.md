@@ -254,7 +254,7 @@ he will be **forgiven**.
 ---
 <!-- .slide: data-background="white" -->
 ## How has God **healed** us, <br> body and soul? 
-## 神 如何 **醫治** 我們, 身體和心靈？
+## 神 如何 **醫治** 我們, <br> 身體和心靈？
 
 >>>
 + Doctors take a patient's **medical history**:
@@ -377,7 +377,7 @@ my **glory**, and the **lifter** of my head.
 ---
 <!-- .slide: data-background="white" -->
 ## When have I been in the **pit**? How has God **lifted** me? 
-## 我何時曾經處在 **死亡深淵** ？ 神 如何提我起來？
+## 我何時曾經處在 **死亡深淵** ？ 神 如何提我 **起來** ？
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -475,7 +475,7 @@ like the **eagle**'s.
 ---
 <!-- .slide: data-background="white" -->
 ## What **good** and perfect **gifts** has God given to me? 
-## 神 已經給我什麼 **美善完美** 的禮物？
+## 神 已經給我什麼 <br> **美善完美** 的禮物？
 
 >>>
 + Am I staying **close** to the Source of Life
@@ -559,7 +559,7 @@ his acts to the **people** of Israel.
 ---
 <!-- .slide: data-background="white" -->
 ## Do I believe God works **justice** for His people?
-## 我相信 神為祂的百姓 **申冤** 嗎？
+## 我相信 神為祂的百姓 <br> **申冤** 嗎？
 
 >>>
 + in our **lives**, in our **communities**
