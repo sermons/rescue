@@ -14,7 +14,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Why is **worship** worth it?
+## Why is **worship** worth it?
+## 為何 **敬拜** 是值得的？
 
 >>>
 + Worship is: **orienting** our hearts to face God
@@ -164,13 +165,13 @@ and **forget** not all his **benefits**,
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" -->
 ## Bless the LORD 稱頌耶和華
 1. **Heals** Us in Body and Soul <br>
-  醫治我們的身體和心靈 [(v3)](# "ref")
+  **醫治** 我們的身體和心靈 [(v3)](# "ref")
 1. **Lifts** Us from Pit to Glory <br>
-  提起我們從死亡至榮耀 [(v4)](# "ref")
+  **提起** 我們從死亡至榮耀 [(v4)](# "ref")
 1. **Supplies** Us with Strength and Satisfaction <br>
-  供應我們力量和滿足 [(v5)](# "ref")
+  **供應** 我們力量和滿足 [(v5)](# "ref")
 1. **Rescues** and Advocates for Us  <br>
-  拯救而且支持我們 [(v6-7)](# "ref")
+  **拯救而且支持** 我們 [(v6-7)](# "ref")
 
 >>>
 + in each area, let us refresh our **memories**
@@ -269,7 +270,7 @@ he will be **forgiven**.
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
 1. **Lifts Us from Pit to Glory** <br>
-  提起我們從死亡至榮耀 [(v4)](# "ref")
+  **提起我們從死亡至榮耀** [(v4)](# "ref")
 1. Supplies Us with Strength and Satisfaction <br>
   供應我們力量和滿足 [(v5)](# "ref")
 1. Rescues and Advocates for Us  <br>
@@ -377,12 +378,16 @@ my **glory**, and the **lifter** of my head.
 # When have I been in the **pit**? How has God **lifted** me? 
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Bless the LORD
-1. Heals Us in Body and Soul [(v3)](# "ref")
-1. Lifts Us from Pit to Glory [(v4)](# "ref")
-1. **Supplies Us with Strength <br> and Satisfaction** [(v5)](# "ref")
-1. Rescues and Advocates for Us [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+## Bless the LORD 稱頌耶和華
+1. Heals Us in Body and Soul <br>
+  醫治我們的身體和心靈 [(v3)](# "ref")
+1. Lifts Us from Pit to Glory <br>
+  提起我們從死亡至榮耀 [(v4)](# "ref")
+1. **Supplies Us with Strength and Satisfaction** <br>
+  **供應我們力量和滿足** [(v5)](# "ref")
+1. Rescues and Advocates for Us  <br>
+  拯救而且支持我們 [(v6-7)](# "ref")
 
 >>>
 + Jesus **forgives** + heals us
@@ -475,12 +480,16 @@ like the **eagle**'s.
   + to be **empowered** to be a blessing to others?
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="outline" -->
-## Bless the LORD
-1. Heals Us in Body and Soul [(v3)](# "ref")
-1. Lifts Us from Pit to Glory [(v4)](# "ref")
-1. Supplies Us with Strength <br> and Satisfaction [(v5)](# "ref")
-1. **Rescues and Advocates for Us** [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+## Bless the LORD 稱頌耶和華
+1. Heals Us in Body and Soul <br>
+  醫治我們的身體和心靈 [(v3)](# "ref")
+1. Lifts Us from Pit to Glory <br>
+  提起我們從死亡至榮耀 [(v4)](# "ref")
+1. Supplies Us with Strength and Satisfaction <br>
+  供應我們力量和滿足 [(v5)](# "ref")
+1. **Rescues and Advocates for Us**  <br>
+  **拯救而且支持我們** [(v6-7)](# "ref")
 
 >>>
 + Christ's **conduct** toward us
