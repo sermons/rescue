@@ -328,6 +328,7 @@ but only mud, and Jeremiah **sank** in the mud.
   + and God's **chastisement**, that his
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Your trusted friends have **deceived** you<br>
 and prevailed against you;<br>
 now that your feet are **sunk** in the mud,<br>
@@ -337,6 +338,7 @@ they turn away from you.
 見你的腳陷入淤泥中，就轉身退後了。
 
 [Jeremiah 耶利米 38:22 (ESV)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + and God **turned** the snares of Jer's enemies
@@ -406,11 +408,13 @@ my **glory**, and the **lifter** of my head.
 + **Supplies** us abundantly w/more than we need:
 
 ---
+<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 who **satisfies** you with **good**
 
 他用美物使你所願的得以知足
 
 [Psalm 詩篇 103:5a (ESV)](# "ref")
+[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
 
 >>>
 + satisfy: eat til full, enough: **adorns**
@@ -528,6 +532,7 @@ and **justice** for all who are **oppressed**.
 + and already **started** His plan of action!
 
 ---
+<!-- .slide: <%= bg("unsplash-3U7HcqkIbb4-kneel_pray_pew.jpg") %> -->
 And will not God give **justice** to his elect, <br>
 who **cry** to him day and night? <br>
 Will he **delay** long over them?
@@ -537,6 +542,7 @@ Will he **delay** long over them?
 豈不終久給他們伸冤麼？
 
 [Luke 路加 18:7 (ESV)](# "ref")
+[R. Dr. Manoel Miranda, Brazil. Samuel Martins](https://unsplash.com/photos/3U7HcqkIbb4 "caption")
 
 >>>
 + **God** is the one who brings about justice, but
@@ -666,8 +672,4 @@ his acts to the people of Israel.
 + We have **seen** Your goodness 
   + in our **lives** in this broken world
 + And we will **proclaim** this testimony to all
-
----
-<!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
-[Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
 
