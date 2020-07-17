@@ -1,8 +1,8 @@
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> id="title" -->
 # Bless the LORD, <br> O My Soul
 # 我的心哪，<br> 你要稱頌耶和華！
 ## Psalm 詩篇 103:1-7
-[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
 + don't always **feel** like worshipping God
@@ -101,6 +101,8 @@ his acts to the people of Israel.
 1. God's **Constancy** in Love and Might <br>
   神恆久不變的 **愛和大能** [(v15-22)](# "ref")
 
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+
 >>>
 + **[ PRAYER ]**
   + we are **hurting** + broken,
@@ -139,7 +141,7 @@ bless his holy name!
 + How? By having a good **memory**:
 
 ---
-<!-- .slide: <%= bg("unsplash-jfU3_67YiwQ-hands_concert.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
 Bless the Lord, O my soul,<br>
 and **forget** not all his **benefits**,
 
@@ -147,6 +149,7 @@ and **forget** not all his **benefits**,
 不可忘記他的一切恩惠！
 
 [Psalm 詩篇 103:2 (ESV)](# "ref")
+[Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
 + benefits: not about God's **utility** to us
@@ -162,7 +165,7 @@ and **forget** not all his **benefits**,
   + instead, He
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> id="outline" -->
 ## Bless the LORD 稱頌耶和華
 1. **Heals** Us in Body and Soul <br>
   **醫治** 我們的身體和心靈 [(v3)](# "ref")
@@ -224,6 +227,7 @@ or to say, <br/>
 + Again in **James**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8wUVsR-w994-curtain.jpg") %> -->
 And the prayer of **faith** <br>
 will **save** the one who is sick, <br>
 and the Lord will **raise** him up. <br>
@@ -235,6 +239,7 @@ he will be **forgiven**.
 他若犯了罪，也必蒙赦免。
 
 [James 雅各 5:15 (ESV)](# "ref")
+[Dozen](https://unsplash.com/photos/8wUVsR-w994 "caption")
 
 >>>
 + Each is 1 **integral** being: body, mind, heart, soul
@@ -266,7 +271,7 @@ he will be **forgiven**.
   + (perhaps still in **progress**)
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -283,12 +288,14 @@ he will be **forgiven**.
 + He's also our **pride** and **glory**:
 
 ---
+<!-- .slide: <%= bg("unsplash-KXtMGheovdw-cave.jpg") %> -->
 who **redeems** your life from the **pit**
 
 他救贖你的命脫離死亡，<br>
 以仁愛和慈悲為你的冠冕。
 
 [Psalm 詩篇 103:4 (ESV)](# "ref")
+[Iswanto Arif](https://unsplash.com/photos/KXtMGheovdw "caption")
 
 >>>
 + pit: depth, **despair**, trapped, surrounded
@@ -301,6 +308,7 @@ who **redeems** your life from the **pit**
   + left him to **die** in a deep well:
 
 ---
+<!-- .slide: <%= bg("Forder-Hagars_Well_Beersheba.jpg") %> -->
 And there was no water in the **cistern**, <br>
 but only mud, and Jeremiah **sank** in the mud.
 
@@ -308,6 +316,7 @@ but only mud, and Jeremiah **sank** in the mud.
 耶利米就陷在淤泥中。
 
 [Jeremiah 耶利米 38:6b (ESV)](# "ref")
+[Hagars Well in the Desert of Beersheba. Archibald Forder, 1863](https://www.flickr.com/photos/internetarchivebookimages/14767208571 "caption")
 
 >>>
 + But God the **Redeemer** had a **plan**
@@ -380,7 +389,7 @@ my **glory**, and the **lifter** of my head.
 ## 我何時曾經處在 **死亡深淵** ？ 神 如何提我 **起來** ？
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -483,7 +492,7 @@ like the **eagle**'s.
   + to be **empowered** to be a blessing to others?
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 ## Bless the LORD 稱頌耶和華
 1. Heals Us in Body and Soul <br>
   醫治我們的身體和心靈 [(v3)](# "ref")
@@ -575,7 +584,7 @@ his acts to the **people** of Israel.
   + and to bear witness to the **world**
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 [1](# "ref")
 Bless the Lord, O my soul,<br>
 and all that is within me, bless his holy name!
@@ -593,7 +602,7 @@ and forget not all his benefits,
 [Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 [3](# "ref")
 who forgives all your iniquity,<br>
 who heals all your diseases,
@@ -611,7 +620,7 @@ who crowns you with steadfast love and mercy,
 [Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 [5](# "ref")
 who satisfies you with good<br>
 so that your youth is renewed like the eagle's.
@@ -622,7 +631,7 @@ so that your youth is renewed like the eagle's.
 [Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 [6](# "ref")
 The Lord works righteousness<br>
 and justice for all who are oppressed.
@@ -643,7 +652,7 @@ his acts to the people of Israel.
 **[ CLOSING PRAYER ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> class="empty" -->
 
 >>>
 + It is **good** to bless Your Name, O Lord, good 
@@ -661,3 +670,4 @@ his acts to the people of Israel.
 ---
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 [Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
+
