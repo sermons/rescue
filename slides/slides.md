@@ -292,9 +292,8 @@ he will be **forgiven**.
 who **redeems** your life from the **pit**
 
 他救贖你的命脫離死亡，<br>
-以仁愛和慈悲為你的冠冕。
 
-[Psalm 詩篇 103:4 (ESV)](# "ref")
+[Psalm 詩篇 103:4a (ESV)](# "ref")
 [Iswanto Arif](https://unsplash.com/photos/KXtMGheovdw "caption")
 
 >>>
@@ -348,10 +347,9 @@ they turn away from you.
 <!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 who **crowns** you with **steadfast love** and mercy
 
-他救贖你的命脫離死亡，<br>
 以仁愛和慈悲為你的冠冕。
 
-[Psalm 詩篇 103:4 (ESV)](# "ref")
+[Psalm 詩篇 103:4b (ESV)](# "ref")
 [Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
@@ -515,8 +513,7 @@ like the **eagle**'s.
 The Lord works **righteousness**<br>
 and **justice** for all who are **oppressed**.
 
-耶和華施行公義，<br>
-為一切受屈的人伸冤。
+耶和華施行公義， 為一切受屈的人伸冤。
 
 [Psalm 詩篇 103:6 (ESV)](# "ref")
 [Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
