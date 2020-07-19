@@ -1,7 +1,6 @@
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> id="title" -->
 # Bless the LORD, <br> O My Soul
-# 我的心哪，<br> 你要稱頌耶和華！
-## Psalm 詩篇 103:1-7
+## Psalm 103:1-7
 [Alberto Restifo](https://unsplash.com/photos/Ni4NgA64TFQ "caption")
 
 >>>
@@ -14,8 +13,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## Why is **worship** worth it?
-## 為何 **敬拜** 是值得的？
+# Why is **worship** worth it?
 
 >>>
 + Worship is: **orienting** our hearts to face God
@@ -33,17 +31,11 @@
 Bless the Lord, O my soul,<br>
 and all that is within me, bless his holy name!
 
-我的心哪，你要稱頌耶和華！<br>
-凡在我裡面的，也要稱頌他的聖名！
-
 [2](# "ref")
 Bless the Lord, O my soul,<br>
 and forget not all his benefits,
 
-我的心哪，你要稱頌耶和華！<br>
-不可忘記他的一切恩惠！
-
-[Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ******
 
@@ -51,17 +43,11 @@ and forget not all his benefits,
 who forgives all your iniquity,<br>
 who heals all your diseases,
 
-他赦免你的一切罪孽，<br>
-醫治你的一切疾病。
-
 [4](# "ref")
 who redeems your life from the pit,<br>
 who crowns you with steadfast love and mercy,
 
-他救贖你的命脫離死亡，<br>
-以仁愛和慈悲為你的冠冕。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ******
 
@@ -69,37 +55,25 @@ who crowns you with steadfast love and mercy,
 who satisfies you with good<br>
 so that your youth is renewed like the eagle's.
 
-他用美物使你所願的得以知足，<br>
-以致你如鷹返老還童。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.3/4)](# "ref")
 
 ******
 [6](# "ref")
 The Lord works righteousness<br>
 and justice for all who are oppressed.
 
-耶和華施行公義，<br>
-為一切受屈的人伸冤。
-
 [7](# "ref")
 He made known his ways to Moses,<br>
 his acts to the people of Israel.
 
-他使摩西知道他的法則，<br>
-叫以色列人曉得他的作為。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.4/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
-## Ps 詩篇 103 Overview
-1. God's **Conduct** with Us <br>
-  神對我們的 **作為** [(v1-7)](# "ref")
-1. God's **Compassion** toward Us <br>
-  神對我們的 **憐憫** [(v8-14)](# "ref")
-1. God's **Constancy** in Love and Might <br>
-  神恆久不變的 **愛和大能** [(v15-22)](# "ref")
+## Ps 103 Overview
+1. God's **Conduct** with Us [(v1-7)](# "ref")
+1. God's **Compassion** toward Us [(v8-14)](# "ref")
+1. God's **Constancy** in Love and Might [(v15-22)](# "ref")
 
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
@@ -123,10 +97,7 @@ ______
 and all that is **within me**,<br>
 bless his holy name!
 
-我的心哪，你要稱頌耶和華！<br>
-凡在我裡面的，也要稱頌他的聖名！
-
-[Psalm 詩篇 103:1 (ESV)](# "ref")
+[Psalm 103:1 (ESV)](# "ref")
 [Palm Springs, CA. Edwards Cisneros](https://unsplash.com/photos/jfU3_67YiwQ "caption")
 
 >>>
@@ -145,10 +116,7 @@ bless his holy name!
 Bless the Lord, O my soul,<br>
 and **forget** not all his **benefits**,
 
-我的心哪，你要稱頌耶和華！<br>
-不可忘記他的一切恩惠！
-
-[Psalm 詩篇 103:2 (ESV)](# "ref")
+[Psalm 103:2 (ESV)](# "ref")
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
@@ -165,16 +133,12 @@ and **forget** not all his **benefits**,
   + instead, He
 
 ---
-<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> id="outline" -->
-## Bless the LORD 稱頌耶和華
-1. **Heals** Us in Body and Soul <br>
-  **醫治** 我們的身體和心靈 [(v3)](# "ref")
-1. **Lifts** Us from Pit to Glory <br>
-  **提起** 我們從死亡至榮耀 [(v4)](# "ref")
-1. **Supplies** Us with Strength and Satisfaction <br>
-  **供應** 我們力量和滿足 [(v5)](# "ref")
-1. **Rescues** and Advocates for Us  <br>
-  **拯救而且支持** 我們 [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> id="outline" class="outline" -->
+## Bless the LORD 
+1. **Heals** Us in Body and Soul [(v3)](# "ref")
+1. **Lifts** Us from Pit to Glory [(v4)](# "ref")
+1. **Supplies** Us with <br> Strength and Satisfaction [(v5)](# "ref")
+1. **Rescues** and Advocates for Us [(v6-7)](# "ref")
 
 >>>
 + in each area, let us refresh our **memories**
@@ -187,10 +151,7 @@ and **forget** not all his **benefits**,
 who **forgives** all your iniquity,<br>
 who **heals** all your diseases,
 
-他赦免你的一切罪孽，<br>
-醫治你的一切疾病。
-
-[Psalm 詩篇 103:3 (ESV)](# "ref")
+[Psalm 103:3 (ESV)](# "ref")
 ["Christ Healing the Mother of Simon Peter’s Wife" <br>John Bridges, 1839](https://commons.wikimedia.org/wiki/File%3AChrist_Healing_the_Mother_of_Simon_Peter%E2%80%99s_Wife_by_John_Bridges.jpg "caption")
 
 >>>
@@ -207,11 +168,7 @@ Which is easier, to say to the paralytic,  <br/>
 or to say, <br/>
 ‘**Get up**, and pick up your pallet and **walk**’?
 
-或對癱子說你的罪赦了，<br>
-或說起來！拿你的褥子行走；<br>
-那一樣容易呢？
-
-[Mark 馬可 2:9 (ESV)](# "ref")
+[Mark 2:9 (ESV)](# "ref")
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -234,11 +191,7 @@ and the Lord will **raise** him up. <br>
 And if he has committed **sins**, <br>
 he will be **forgiven**.
 
-出於信心的祈禱要救那病人，<br>
-主必叫他起來；<br>
-他若犯了罪，也必蒙赦免。
-
-[James 雅各 5:15 (ESV)](# "ref")
+[James 5:15 (ESV)](# "ref")
 [Dozen](https://unsplash.com/photos/8wUVsR-w994 "caption")
 
 >>>
@@ -258,8 +211,7 @@ he will be **forgiven**.
 
 ---
 <!-- .slide: data-background="white" -->
-## How has God **healed** us, <br> body and soul? 
-## 神 如何 **醫治** 我們, <br> 身體和心靈？
+# How has God **healed** us, <br> body and soul? 
 
 >>>
 + Doctors take a patient's **medical history**:
@@ -271,16 +223,12 @@ he will be **forgiven**.
   + (perhaps still in **progress**)
 
 ---
-<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
-## Bless the LORD 稱頌耶和華
-1. Heals Us in Body and Soul <br>
-  醫治我們的身體和心靈 [(v3)](# "ref")
-1. **Lifts Us from Pit to Glory** <br>
-  **提起我們從死亡至榮耀** [(v4)](# "ref")
-1. Supplies Us with Strength and Satisfaction <br>
-  供應我們力量和滿足 [(v5)](# "ref")
-1. Rescues and Advocates for Us  <br>
-  拯救而且支持我們 [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
+## Bless the LORD 
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. **Lifts Us from Pit to Glory** [(v4)](# "ref")
+1. Supplies Us with <br> Strength and Satisfaction [(v5)](# "ref")
+1. Rescues and Advocates for Us [(v6-7)](# "ref")
 
 >>>
 + Jesus is the Great **Physician**
@@ -291,9 +239,7 @@ he will be **forgiven**.
 <!-- .slide: <%= bg("unsplash-KXtMGheovdw-cave.jpg") %> -->
 who **redeems** your life from the **pit**
 
-他救贖你的命脫離死亡，<br>
-
-[Psalm 詩篇 103:4a (ESV)](# "ref")
+[Psalm 103:4a (ESV)](# "ref")
 [Iswanto Arif](https://unsplash.com/photos/KXtMGheovdw "caption")
 
 >>>
@@ -311,10 +257,7 @@ who **redeems** your life from the **pit**
 And there was no water in the **cistern**, <br>
 but only mud, and Jeremiah **sank** in the mud.
 
-牢獄裡沒有水，只有淤泥，<br>
-耶利米就陷在淤泥中。
-
-[Jeremiah 耶利米 38:6b (ESV)](# "ref")
+[Jeremiah 38:6b (ESV)](# "ref")
 [Hagars Well in the Desert of Beersheba. Archibald Forder, 1863](https://www.flickr.com/photos/internetarchivebookimages/14767208571 "caption")
 
 >>>
@@ -333,10 +276,7 @@ and prevailed against you;<br>
 now that your feet are **sunk** in the mud,<br>
 they turn away from you.
 
-你知己的朋友催逼你，勝過你；<br>
-見你的腳陷入淤泥中，就轉身退後了。
-
-[Jeremiah 耶利米 38:22 (ESV)](# "ref")
+[Jeremiah 38:22 (ESV)](# "ref")
 [Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
@@ -347,9 +287,7 @@ they turn away from you.
 <!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 who **crowns** you with **steadfast love** and mercy
 
-以仁愛和慈悲為你的冠冕。
-
-[Psalm 詩篇 103:4b (ESV)](# "ref")
+[Psalm 103:4b (ESV)](# "ref")
 [Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
@@ -367,10 +305,7 @@ who **crowns** you with **steadfast love** and mercy
 But you, O Lord, are a **shield** about me, <br>
 my **glory**, and the **lifter** of my head.
 
-但你─耶和華是我四圍的盾牌，<br>
-是我的榮耀，又是叫我抬起頭來的。
-
-[Psalm 詩篇 3:3 (ESV)](# "ref")
+[Psalm 3:3 (ESV)](# "ref")
 [Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A "caption")
 
 >>>
@@ -385,20 +320,15 @@ my **glory**, and the **lifter** of my head.
 
 ---
 <!-- .slide: data-background="white" -->
-## When have I been in the **pit**? How has God **lifted** me? 
-## 我何時曾經處在 **死亡深淵** ？ 神 如何提我 **起來** ？
+# When have I been in the **pit**? How has God **lifted** me? 
 
 ---
-<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
-## Bless the LORD 稱頌耶和華
-1. Heals Us in Body and Soul <br>
-  醫治我們的身體和心靈 [(v3)](# "ref")
-1. Lifts Us from Pit to Glory <br>
-  提起我們從死亡至榮耀 [(v4)](# "ref")
-1. **Supplies Us with Strength and Satisfaction** <br>
-  **供應我們力量和滿足** [(v5)](# "ref")
-1. Rescues and Advocates for Us  <br>
-  拯救而且支持我們 [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
+## Bless the LORD 
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. Lifts Us from Pit to Glory [(v4)](# "ref")
+1. **Supplies Us with** <br> **Strength and Satisfaction** [(v5)](# "ref")
+1. Rescues and Advocates for Us [(v6-7)](# "ref")
 
 >>>
 + Jesus **forgives** + heals us
@@ -409,9 +339,7 @@ my **glory**, and the **lifter** of my head.
 <!-- .slide: <%= bg("unsplash-UqyHjOgYxYY-view_banff.jpg") %> -->
 who **satisfies** you with **good**
 
-他用美物使你所願的得以知足
-
-[Psalm 詩篇 103:5a (ESV)](# "ref")
+[Psalm 103:5a (ESV)](# "ref")
 [Banff, AB. Kalen Emsley](https://unsplash.com/photos/UqyHjOgYxYY "caption")
 
 >>>
@@ -432,10 +360,7 @@ who **satisfies** you with **good**
 Every **good gift** and every **perfect gift** <br>
 is from above, 
 
-各樣美善的恩賜和各樣全備的賞賜<br>
-都是從上頭來的，
-
-[James 雅各 1:17 (ESV) (p.1/2)](# "ref")
+[James 1:17 (ESV) (p.1/2)](# "ref")
 [Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 ---
@@ -445,11 +370,7 @@ coming down from the **Father of lights**,
 with whom there is no **variation** <br>
 or shadow due to **change**.
 
-從眾光之父那裡降下來的；<br>
-在他並沒有改變，<br>
-也沒有轉動的影兒。
-
-[James 雅各 1:17 (ESV) (p.2/2)](# "ref")
+[James 1:17 (ESV) (p.2/2)](# "ref")
 
 >>>
 + does not **tempt** us to sin
@@ -463,9 +384,7 @@ or shadow due to **change**.
 so that your **youth** is renewed <br>
 like the **eagle**'s.
 
-以致你如鷹返老還童。
-
-[Psalm 詩篇 103:5b (ESV)](# "ref")
+[Psalm 103:5b (ESV)](# "ref")
 [Woodbine, NJ. Ray Hennessy](https://unsplash.com/photos/OjE4RtaibFc "caption")
 
 >>>
@@ -485,8 +404,7 @@ like the **eagle**'s.
 
 ---
 <!-- .slide: data-background="white" -->
-## What **good** and perfect **gifts** has God given to me? 
-## 神 已經給我什麼 <br> **美善完美** 的禮物？
+# What **good** and perfect **gifts** has God given to me? 
 
 >>>
 + Am I staying **close** to the Source of Life
@@ -494,16 +412,12 @@ like the **eagle**'s.
   + to be **empowered** to be a blessing to others?
 
 ---
-<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
-## Bless the LORD 稱頌耶和華
-1. Heals Us in Body and Soul <br>
-  醫治我們的身體和心靈 [(v3)](# "ref")
-1. Lifts Us from Pit to Glory <br>
-  提起我們從死亡至榮耀 [(v4)](# "ref")
-1. Supplies Us with Strength and Satisfaction <br>
-  供應我們力量和滿足 [(v5)](# "ref")
-1. **Rescues and Advocates for Us**  <br>
-  **拯救而且支持我們** [(v6-7)](# "ref")
+<!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
+## Bless the LORD 
+1. Heals Us in Body and Soul [(v3)](# "ref")
+1. Lifts Us from Pit to Glory [(v4)](# "ref")
+1. Supplies Us with <br> Strength and Satisfaction [(v5)](# "ref")
+1. **Rescues and Advocates for Us** [(v6-7)](# "ref")
 
 >>>
 + Christ's **conduct** toward us
@@ -513,9 +427,7 @@ like the **eagle**'s.
 The Lord works **righteousness**<br>
 and **justice** for all who are **oppressed**.
 
-耶和華施行公義， 為一切受屈的人伸冤。
-
-[Psalm 詩篇 103:6 (ESV)](# "ref")
+[Psalm 103:6 (ESV)](# "ref")
 [Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 >>>
@@ -534,11 +446,7 @@ And will not God give **justice** to his elect, <br>
 who **cry** to him day and night? <br>
 Will he **delay** long over them?
 
-神的選民晝夜呼籲他，<br>
-他縱然為他們忍了多時，<br>
-豈不終久給他們伸冤麼？
-
-[Luke 路加 18:7 (ESV)](# "ref")
+[Luke 18:7 (ESV)](# "ref")
 [R. Dr. Manoel Miranda, Brazil. Samuel Martins](https://unsplash.com/photos/3U7HcqkIbb4 "caption")
 
 >>>
@@ -557,10 +465,7 @@ Will he **delay** long over them?
 He **made known** his ways to Moses,<br>
 his acts to the **people** of Israel.
 
-他使摩西知道他的法則，<br>
-叫以色列人曉得他的作為。
-
-[Psalm 詩篇 103:7 (ESV)](# "ref")
+[Psalm 103:7 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/1EbsMYrAu-s "caption")
 
 >>>
@@ -570,8 +475,7 @@ his acts to the **people** of Israel.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I believe God works **justice** for His people?
-## 我相信 神為祂的百姓 <br> **申冤** 嗎？
+# Do I believe God works **justice** for His people?
 
 >>>
 + in our **lives**, in our **communities**
@@ -592,17 +496,11 @@ his acts to the **people** of Israel.
 Bless the Lord, O my soul,<br>
 and all that is within me, bless his holy name!
 
-我的心哪，你要稱頌耶和華！<br>
-凡在我裡面的，也要稱頌他的聖名！
-
 [2](# "ref")
 Bless the Lord, O my soul,<br>
 and forget not all his benefits,
 
-我的心哪，你要稱頌耶和華！<br>
-不可忘記他的一切恩惠！
-
-[Psalm 詩篇 103:1-7 (ESV) (p.1/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.1/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
@@ -610,17 +508,11 @@ and forget not all his benefits,
 who forgives all your iniquity,<br>
 who heals all your diseases,
 
-他赦免你的一切罪孽，<br>
-醫治你的一切疾病。
-
 [4](# "ref")
 who redeems your life from the pit,<br>
 who crowns you with steadfast love and mercy,
 
-他救贖你的命脫離死亡，<br>
-以仁愛和慈悲為你的冠冕。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.2/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.2/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
@@ -628,10 +520,7 @@ who crowns you with steadfast love and mercy,
 who satisfies you with good<br>
 so that your youth is renewed like the eagle's.
 
-他用美物使你所願的得以知足，<br>
-以致你如鷹返老還童。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.3/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.3/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
@@ -639,17 +528,11 @@ so that your youth is renewed like the eagle's.
 The Lord works righteousness<br>
 and justice for all who are oppressed.
 
-耶和華施行公義，<br>
-為一切受屈的人伸冤。
-
 [7](# "ref")
 He made known his ways to Moses,<br>
 his acts to the people of Israel.
 
-他使摩西知道他的法則，<br>
-叫以色列人曉得他的作為。
-
-[Psalm 詩篇 103:1-7 (ESV) (p.4/4)](# "ref")
+[Psalm 103:1-7 (ESV) (p.4/4)](# "ref")
 
 >>>
 **[ CLOSING PRAYER ]**
