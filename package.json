@@ -22,16 +22,16 @@
     },
     "history": [
       {
+        "venue": "Bethel Chinese Christian MB Church",
+        "city": "Vancouver",
+        "date": "2020-08-30",
+        "duration": 19
+      },
+      {
         "venue": "Zion Christian Reformed Church",
         "city": "Abbotsford",
         "date": "2020-07-19",
-        "duration": 0
-      },
-      {
-        "venue": "Bethel Chinese Christian MB Church",
-        "city": "Vancouver",
-        "date": "2020-07-12",
-        "duration": 0
+        "duration": 34
       },
       {
         "venue": "Fujian Evangelical Church",
