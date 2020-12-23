@@ -134,7 +134,7 @@ and **forget** not all his **benefits**,
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> id="outline" class="outline" -->
-## Bless the LORD 
+## Bless the LORD [(Ps103)](# "ref")
 1. **Heals** Us in Body and Soul [(v3)](# "ref")
 1. **Lifts** Us from Pit to Glory [(v4)](# "ref")
 1. **Supplies** Us with <br> Strength and Satisfaction [(v5)](# "ref")
@@ -224,7 +224,7 @@ he will be **forgiven**.
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
-## Bless the LORD 
+## Bless the LORD  [(Ps103)](# "ref")
 1. Heals Us in Body and Soul [(v3)](# "ref")
 1. **Lifts Us from Pit to Glory** [(v4)](# "ref")
 1. Supplies Us with <br> Strength and Satisfaction [(v5)](# "ref")
@@ -320,11 +320,12 @@ my **glory**, and the **lifter** of my head.
 
 ---
 <!-- .slide: data-background="white" -->
-# When have I been in the **pit**? How has God **lifted** me? 
+# When have I <br> been in the **pit**? 
+# How has God <br> **lifted** me? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
-## Bless the LORD 
+## Bless the LORD  [(Ps103)](# "ref")
 1. Heals Us in Body and Soul [(v3)](# "ref")
 1. Lifts Us from Pit to Glory [(v4)](# "ref")
 1. **Supplies Us with** <br> **Strength and Satisfaction** [(v5)](# "ref")
@@ -413,7 +414,7 @@ like the **eagle**'s.
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> class="outline" -->
-## Bless the LORD 
+## Bless the LORD  [(Ps103)](# "ref")
 1. Heals Us in Body and Soul [(v3)](# "ref")
 1. Lifts Us from Pit to Glory [(v4)](# "ref")
 1. Supplies Us with <br> Strength and Satisfaction [(v5)](# "ref")
@@ -475,7 +476,7 @@ his acts to the **people** of Israel.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I believe God works **justice** for His people?
+# Do I believe God works **justice** <br> for His people?
 
 >>>
 + in our **lives**, in our **communities**
